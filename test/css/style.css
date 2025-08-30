@@ -2,5 +2,5 @@
 tei-cell[role="label"]{font-weight:bold;}
 
 [role="label"]{font-weight:bold;color:green;}
-tei-title{font-weight:bold;color:red;}
+/*tei-title{font-weight:bold;color:red;}*/
 td[role="label"]{color:blue;}
