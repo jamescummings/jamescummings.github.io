@@ -1,4 +1,6 @@
 /** testing **/
+tei-xenodata{display:none;}
+
 tei-cell[role="label"]{font-weight:bold;}
 
 [role="label"]{font-weight:bold;color:green;}
