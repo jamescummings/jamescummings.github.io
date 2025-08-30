@@ -30,7 +30,7 @@
       <p>Here is a pointer: <ptr target="https://github.com/TEIC/CETEIcean"/>.
     And here is a <ref target="https://github.com/TEIC">ref</ref>. But
     <ref target="../addBehaviorTest.html">here</ref> is a relative link, I hope.</p>
-    <p><egXML xmlns="http://www.tei-c.org/ns/Examples"><fuzzbuckets>egXML test</fuzzbuckets></egXML></p>
+    <p><egXML xmlns="http://www.tei-c.org/ns/Examples"><fuzzbuckets>egXML test</fuzzbuckets></egXML></p><ab/>
     <table rows="4" cols="4">
       <head>Poor Man's Lodgings in Norfolk (Mayhew, 1843)</head>
       <row role="label">
