@@ -33,7 +33,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         Here is some <add>added</add> text.</p>
       <p>Here is a pointer: <ptr target="https://github.com/TEIC/CETEIcean"/>.
     And here is a <ref target="https://github.com/TEIC">ref</ref>. But
-    <ref target="addBehaviorTest.html">here</ref> is a relative link.</p>
+    <ref target="../addBehaviorTest.html">here</ref> is a relative link.</p>
     <p><egXML xmlns="http://www.tei-c.org/ns/Examples"><fuzzbuckets>egXML test</fuzzbuckets></egXML></p>
     <table rows="4" cols="4">
       <head>Poor Man's Lodgings in Norfolk (Mayhew, 1843)</head>
@@ -56,7 +56,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <cell>36</cell>
       </row>
       <row>
-        <cell role="label" cols="2">Attleboro'<note place="end">Takes up 2 columns.</note></cell>
+        <cell role="label" cols="2">Attleboro'<note place="foot">Takes up 2 columns.</note></cell>
         <cell>5</cell>
         <cell>20</cell>
       </row>
