@@ -1,4 +1,5 @@
 /** testing **/
 tei-cell[role="label"]{font-weight:bold;}
-[role="label"]{font-weight:bold;color:green;}}
+
+[role="label"]{font-weight:bold;color:green;}
 tei-title{font-weight:bold;color:red;}
