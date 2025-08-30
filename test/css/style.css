@@ -1,3 +1,4 @@
-tei-cell [role~="label"]{font-weight:bold;}
+/** testing **/
+tei-cell[role~="label"]{font-weight:bold;}
 td[role~="label"]{font-weight:bold;}
 tei-title{font-weight:bold;color:red;}
