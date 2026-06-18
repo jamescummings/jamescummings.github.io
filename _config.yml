@@ -23,6 +23,14 @@ url: "https://jamescummings.github.io" # the base hostname & protocol for your s
 #twitter_username: jekyllrb
 github_username: jamescummings
 
+defaults:
+  - scope:
+      path: "pages" # Target everything inside the pages folder
+    values:
+      layout: "page" # Automatically applies the 'page' layout to them
+      permalink: "/:basename/" # Strips 'pages/' and builds it at the root URL
+
+
 # Build settings
 markdown: kramdown
 theme: minima
