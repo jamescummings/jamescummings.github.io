@@ -103,7 +103,7 @@ The topic will be <b><i>Records</i></b></p>
 
  
 
-![](banner_sm.jpg)
+![](/assets/banner_sm.jpg)
 
  
 
