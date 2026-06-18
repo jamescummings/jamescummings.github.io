@@ -40,3 +40,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+header_pages: 
+  - society.md
+  - meetings.md 
+  - journal.md
+  - other.md 
+

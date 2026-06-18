@@ -1,0 +1,14 @@
+# _data/navigation.yml
+- name: Home
+  link: /
+- name: About
+  link: /about/
+- name: Services
+  link: /services/
+  dropdown:
+    - name: Web Design
+      link: /services/web-design/
+    - name: SEO
+      link: /services/seo/
+- name: Contact
+  link: /contact/
