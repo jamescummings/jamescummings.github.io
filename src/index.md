@@ -27,12 +27,13 @@ METh also organises an annual conference meeting each year at
 a different location, usually in Britain, and on a different
 theme.
 
-</td></tr><tr><td><table class="borderb" width="750px"><tr><td> 
+</td></tr><tr><td>
 
-**MEDIEVAL ENGLISH THEATRE MEETING 2026**
 
-**REGISTRATION for the 2026 MEETING at Durhamis now open.**  
-Go to **PROGRAMME**
+		**MEDIEVAL ENGLISH THEATRE MEETING 2026**
+
+		**REGISTRATION for the 2026 MEETING at Durhamis now open.**  
+		Go to **PROGRAMME**
 
 Saturday 28th March, at the 
 **University of Durham**, hosted by 
