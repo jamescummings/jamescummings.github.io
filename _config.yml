@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A website for the Medieval English Theatre (METh) association.  medieval theatre, mediaeval theatre, medieval theater, mediaeval theater, early theatre, European theatre, sixteenth-century theatre, audiences, Lille, Saint's plays, Fouquet, St Apollonia, Medieval French drama, York Plays, interludes, Mystery Plays, court entertainments, biblical plays, pageants, guilds, York, theatre research, Toronto, PLS
   Write an awesome description for your new site here. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jamescummings.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: jamescummings
 
