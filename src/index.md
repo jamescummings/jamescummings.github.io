@@ -29,25 +29,18 @@ theme.
 
 </td></tr><tr><td><table class="borderb" width="750px"><tr><td> 
 
-<span class="large">**MEDIEVAL ENGLISH THEATRE MEETING 2026**</span>
+**MEDIEVAL ENGLISH THEATRE MEETING 2026**
 
- 
+**REGISTRATION for the 2026 MEETING at Durhamis now open.**  
+Go to **PROGRAMME**
 
-**REGISTRATION for the 2026
-MEETING at Durhamis now open.**  
-Go to 
-**PROGRAMME**
-
- 
-
-<span class="largish">Saturday 28th March, at the 
+Saturday 28th March, at the 
 **University of Durham**, hosted by 
 **Mark Chambers**.
   
 The topic is 
-**Theatre in the Archives: a REED Retrospective**.</span>
+**Theatre in the Archives: a REED Retrospective**.
 
-<span class="largish"> </span>
 
 <!--<a href="meet_2026/METh_2026_CFP.pdf" target="_blank" 
                 onclick="window.open(this.href,this.target,'width=890,height=900,left=100,top=10,menubar=no,toolbar=no,location=no,scrollbars=yes,status=no,resizeable=yes,directories=no'); return false;">CALL FOR PAPERS</b></a></span><br>--><span class="largish"> </span>
