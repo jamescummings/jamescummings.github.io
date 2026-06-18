@@ -5,16 +5,14 @@ title:  "Medieval English Theatre"
 
   
   
-<table xmlns="http://www.w3.org/1999/xhtml"><tr><td>![Dido](/assets/dido_caps.jpg)<map name="dido" id="dido"><area shape="rect" coords="0,0,354,87" href="society.html" alt="Society"/><area shape="rect" coords="1,88,354,176" href="meetings.html" alt="Meetings"/><area shape="rect" coords="0,176,354,264" href="journal.html" alt="Journal"/></map>Screen capture from the film by Maria Cecire of
+![Dido](/assets/dido_caps.jpg)
+<map name="dido" id="dido"><area shape="rect" coords="0,0,354,87" href="society.html" alt="Society"/><area shape="rect" coords="1,88,354,176" href="meetings.html" alt="Meetings"/><area shape="rect" coords="0,176,354,264" href="journal.html" alt="Journal"/></map>Screen capture from the film by Maria Cecire of
 the 2013 EDOX staging of William Gager s Latin 
 *Dido*(1583) in the Great Hall
-  
 of Christ Church Oxford. For the whole film, and more about
-the project, go to 
-[
-the EDOX website.](http://edox.org.uk/projects/performing-dido/performing-dido-film/)
+the project, go to [the EDOX website.](http://edox.org.uk/projects/performing-dido/performing-dido-film/)
 
-</td></tr></table><table xmlns="http://www.w3.org/1999/xhtml"><tr><td/></tr></table><table xmlns="http://www.w3.org/1999/xhtml" border="0" cellpadding="10" width="890px"><tr><td valign="top" colspan="2">Medieval English Theatre is a society which
+<table xmlns="http://www.w3.org/1999/xhtml"><tr><td/></tr></table><table xmlns="http://www.w3.org/1999/xhtml" border="0" cellpadding="10" width="890px"><tr><td valign="top" colspan="2">Medieval English Theatre is a society which
 exists to promote interest in and study of early theatre both
 within and beyond the academic community. Since 1979 it has
 published an international refereed journal, 
