@@ -29,8 +29,8 @@ theme.
 ## Next Meeting  
 **MEDIEVAL ENGLISH THEATRE MEETING 2026**
 
-**REGISTRATION for the 2026 MEETING at Durhamis now open.**  
-Go to **PROGRAMME** Saturday 28th March, at the **University of Durham**, hosted by **Mark Chambers**.
+**REGISTRATION for the 2026 MEETING at Durham is now open.**  
+Saturday 28th March, at the **University of Durham**, hosted by **Mark Chambers**.
 The topic is **Theatre in the Archives: a REED Retrospective**.
 
 
