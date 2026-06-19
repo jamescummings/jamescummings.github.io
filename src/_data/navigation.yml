@@ -21,7 +21,7 @@
   link: /journal/
   dropdown:
     - name: Volume Index
-      link: /journal/volindex.html
+      link: /journal/volindex
     - name: Author Index
       link: /journal/cumindac
     - name: Boydell &amp; Brewer
