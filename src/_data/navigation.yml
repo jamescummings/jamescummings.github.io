@@ -7,40 +7,40 @@
     - name: Application Form
       link: https://www.medievalenglishtheatre.co.uk/apply_2026.pdf
     - name: Society Committee
-      link: /society/socomm
+      link: /society/socomm.html
     - name: Society Constitution
-      link: /society/soconst
+      link: /society/soconst.html
 - name: Meetings
   link: /meetings/
   dropdown:
     - name: This Year
       link: /meetings/
     - name: Past Meetings
-      link: /meetings/past_meet
+      link: /meetings/past_meet.html
 - name: Journal 
   link: /journal/
   dropdown:
     - name: Volume Index
-      link: /journal/volindex
+      link: /journal/volindex.html
     - name: Author Index
-      link: /journal/cumindac
+      link: /journal/cumindac.html
     - name: Boydell &amp; Brewer
       link: https://boydellandbrewer.com/search-results/?series=medieval-english-theatre
     - name: Back Numbers
-      link: /journal/back_nos
+      link: /journal/back_nos.html
     - name: METh Texts
-      link: /journal/sales_texts
+      link: /journal/sales_texts.html
     - name: Editorial Board
-      link: /journal/methedit
+      link: /journal/methedit.html
     - name: For Authors 
-      link: /journal/authors
+      link: /journal/authors.html
 - name: Other
   link: /other/
   dropdown:
     - name: Links
-      link: /other/links
+      link: /other/links.html
     - name: Videos
-      link: /other/videos
+      link: /other/videos.html
     - name: Site Map
-      link: /other/sitemap
+      link: /other/sitemap.html
     
