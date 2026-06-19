@@ -4,16 +4,10 @@ title:  "Medieval English Theatre"
 banner_image: /assets/dido_caps.jpg
 banner_alt: Dido Banner
 ---
-
-  
  
 <img href="/assets/dido_caps.jpg" alt="dido banner">
 <map name="dido" id="dido"><area shape="rect" coords="0,0,354,87" href="society.html" alt="Society"/><area shape="rect" coords="1,88,354,176" href="meetings.html" alt="Meetings"/><area shape="rect" coords="0,176,354,264" href="journal.html" alt="Journal"/></map></img>
-Screen capture from the film by Maria Cecire of
-the 2013 EDOX staging of William Gager s Latin 
-*Dido*(1583) in the Great Hall
-of Christ Church Oxford. For the whole film, and more about
-the project, go to [the EDOX website.](http://edox.org.uk/projects/performing-dido/performing-dido-film/)
+Screen capture from the film by Maria Cecire of the 2013 EDOX staging of William Gager's Latin  *Dido*(1583) in the Great Hall of Christ Church Oxford. For the whole film, and more about the project, go to [the EDOX website.](http://edox.org.uk/projects/performing-dido/performing-dido-film/)
 
 Medieval English Theatre is a society which
 exists to promote interest in and study of early theatre both
@@ -30,24 +24,14 @@ METh also organises an annual conference meeting each year at
 a different location, usually in Britain, and on a different
 theme.
 
+##METh 2026
+**MEDIEVAL ENGLISH THEATRE MEETING 2026**
 
-		**MEDIEVAL ENGLISH THEATRE MEETING 2026**
-
-		**REGISTRATION for the 2026 MEETING at Durhamis now open.**  
-		Go to **PROGRAMME**
-
-Saturday 28th March, at the 
-**University of Durham**, hosted by 
-**Mark Chambers**.
-  
-The topic is 
-**Theatre in the Archives: a REED Retrospective**.
+**REGISTRATION for the 2026 MEETING at Durhamis now open.**  
+Go to **PROGRAMME** Saturday 28th March, at the **University of Durham**, hosted by **Mark Chambers**.
+The topic is **Theatre in the Archives: a REED Retrospective**.
 
 
 
-![banner_sm](/assets/banner_sm.jpg)
-
- 
-----
-Follow us on Facebook ![](FBLogo.jpg)](https://www.facebook.com/MedievalEnglishTheatre/)
+		![banner_sm](/assets/banner_sm.jpg)
 
