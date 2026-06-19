@@ -1,6 +1,7 @@
 ---
 title: "Journals Volume Index"
 layout: page
+permalink: volindex.html
 ---
 
 Some information about the Journal Volume Index

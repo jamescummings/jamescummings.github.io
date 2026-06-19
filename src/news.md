@@ -1,7 +1,8 @@
-----
+---
 layout: page
 title: News
-----
+---
+
 Here is a list of recent METh News Posts:
 
 <ul class="post-list">
