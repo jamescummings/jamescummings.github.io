@@ -16,33 +16,33 @@
     - name: This Year
       link: /meetings/
     - name: Past Meetings
-      link: /meetings/past_meet.html
+      link: /meetings/past_meet
 - name: Journal 
   link: /journal/
   dropdown:
     - name: Volume Index
       link: /journal/volindex.html
     - name: Author Index
-      link: /journal/cumindac.html
+      link: /journal/cumindac
     - name: Boydell &amp; Brewer
       link: https://boydellandbrewer.com/search-results/?series=medieval-english-theatre
     - name: Back Numbers
-      link: /journal/back_nos.html
+      link: /journal/back_nos
     - name: METh Texts
-      link: /journal/sales_texts.html
+      link: /journal/sales_texts
     - name: Editorial Board
-      link: /journal/methedit.html
+      link: /journal/methedit
     - name: For Authors 
-      link: /journal/authors.html
+      link: /journal/authors
 - name: Other
   link: /other/
   dropdown:
     - name: Links
-      link: /other/links.html
+      link: /other/links
     - name: Videos
-      link: /other/videos.html
+      link: /other/videos
     - name: Site Map
-      link: /other/sitemap.html
+      link: /other/sitemap
 - name: News
-  link: /news.html
+  link: /news
     
