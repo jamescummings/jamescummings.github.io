@@ -7,9 +7,8 @@ banner_alt: "Wakefield Journal Banner"
 
 ## This is a test, only a test.
 
-test
-test
-test
-test
-
+- This is a test
+- only a test
+- If this were a real list it would say
+- something interesting.
 
