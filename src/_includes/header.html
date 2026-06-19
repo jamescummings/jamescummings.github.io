@@ -1,6 +1,6 @@
 <header class="site-header" role="banner">
 	{%- if page.banner_image -%}
-	<div class="banner_wrap"><img src="{{ page.banner_image }}" alt="{{ page.banner_alt }}"/></div>
+	<div class="banner_wrap"><img src="{{ page.banner_image | relative_url }}" alt="{{ page.banner_alt }}"/></div>
 	{% endif %}
 <p>THIS IS A TEST</p>
 
