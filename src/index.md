@@ -1,8 +1,6 @@
 ---
-layout: page
+layout: home
 title:  "Medieval English Theatre"
-banner_image: /assets/dido_caps.jpg
-banner_alt: Dido Banner
 ---
  
 <img src="/assets/dido_caps.jpg" alt="dido banner" usemap="#dido"/>
