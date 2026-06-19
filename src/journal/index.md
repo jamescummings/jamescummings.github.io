@@ -1,8 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: "Journals Page"
 layout: page
+banner_image: /assets/wakefied.jpg
+banner_alt: Wakefield Journal Banner
 ---
 
 ## This is a test, only a test.
