@@ -1,7 +1,7 @@
 ---
 title: "Journals Page"
 layout: page
-banner_image: "/assets/wakefied.jpg"
+banner_image: "/assets/wakefield.jpg"
 banner_alt: "Wakefield Journal Banner"
 ---
 
