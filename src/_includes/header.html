@@ -1,8 +1,8 @@
 <header class="site-header" role="banner">
+<!-- Added by JC -->
 	{%- if page.banner_image -%}
 	<div class="banner_wrap"><img src="{{ page.banner_image | relative_url }}" alt="{{ page.banner_alt }}"/></div>
 	{% endif %}
-<p>THIS IS A TEST</p>
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
