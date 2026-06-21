@@ -8,9 +8,8 @@ banner_alt: "The beginning of the Creation pageant, detail from first surviving 
 
 ## This is a test, only a test.
 
-test
-test
-test
-test
-
+- This is a test
+- only a test
+- If this were a real list it would say
+- something interesting.
 
