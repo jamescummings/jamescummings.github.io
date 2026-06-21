@@ -3,8 +3,8 @@ layout: home
 title:  "Medieval English Theatre"
 ---
  
-<img src="/assets/dido_caps.jpg" alt="Screen capture from the film by Maria Cecire of the 2013 EDOX staging of William Gager's Latin  *Dido*(1583) in the Great Hall of Christ Church Oxford. For the whole film, and more about the project, go to [the EDOX website.](http://edox.org.uk/projects/performing-dido/performing-dido-film/)" 
-title="Screen capture from the film by Maria Cecire of the 2013 EDOX staging of William Gager's Latin  *Dido*(1583) in the Great Hall of Christ Church Oxford. For the whole film, and more about the project, go to [the EDOX website.](http://edox.org.uk/projects/performing-dido/performing-dido-film/)"="#dido"/>
+<img src="/assets/dido_caps.jpg" alt="Screen capture from the film by Maria Cecire of the 2013 EDOX staging of William Gager's Latin  *Dido*(1583) in the Great Hall of Christ Church Oxford." 
+title="Screen capture from the film by Maria Cecire of the 2013 EDOX staging of William Gager's Latin  *Dido*(1583) in the Great Hall of Christ Church Oxford. For the whole film, and more about the project, go to [the EDOX website.](http://edox.org.uk/projects/performing-dido/performing-dido-film/)" usemap="#dido"/>
 <map name="dido" id="dido">
 <area shape="rect" coords="0,0,354,87" href="/society/" alt="Society" title="Society"/>
 <area shape="rect" coords="1,88,354,176" href="/meetings/" alt="Meetings" title="Meetings"/>
