@@ -3,11 +3,12 @@ layout: home
 title:  "Medieval English Theatre"
 ---
  
-<img src="/assets/dido_caps.jpg" alt="dido banner" usemap="#dido"/>
+<img src="/assets/dido_caps.jpg" alt="Screen capture from the film by Maria Cecire of the 2013 EDOX staging of William Gager's Latin  *Dido*(1583) in the Great Hall of Christ Church Oxford. For the whole film, and more about the project, go to [the EDOX website.](http://edox.org.uk/projects/performing-dido/performing-dido-film/)" 
+title="Screen capture from the film by Maria Cecire of the 2013 EDOX staging of William Gager's Latin  *Dido*(1583) in the Great Hall of Christ Church Oxford. For the whole film, and more about the project, go to [the EDOX website.](http://edox.org.uk/projects/performing-dido/performing-dido-film/)"="#dido"/>
 <map name="dido" id="dido">
-<area shape="rect" coords="0,0,354,87" href="/society/" alt="Society"/>
-<area shape="rect" coords="1,88,354,176" href="/meetings/" alt="Meetings"/>
-<area shape="rect" coords="0,176,354,264" href="/journal/" alt="Journal"/>
+<area shape="rect" coords="0,0,354,87" href="/society/" alt="Society" title="Society"/>
+<area shape="rect" coords="1,88,354,176" href="/meetings/" alt="Meetings" title="Meetings"/>
+<area shape="rect" coords="0,176,354,264" href="/journal/" alt="Journal" title="Journal"/>
 </map>
 Screen capture from the film by Maria Cecire of the 2013 EDOX staging of William Gager's Latin  *Dido*(1583) in the Great Hall of Christ Church Oxford. For the whole film, and more about the project, go to [the EDOX website.](http://edox.org.uk/projects/performing-dido/performing-dido-film/)
 
@@ -27,12 +28,11 @@ a different location, usually in Britain, and on a different
 theme.
 
 ## Next Meeting  
-**MEDIEVAL ENGLISH THEATRE MEETING 2026**
+> **MEDIEVAL ENGLISH THEATRE MEETING 2026**
 
-**REGISTRATION for the 2026 MEETING at Durham is now open.**  
-Saturday 28th March, at the **University of Durham**, hosted by **Mark Chambers**.
-The topic is **Theatre in the Archives: a REED Retrospective**.
+> **REGISTRATION for the 2026 MEETING at Durham is now open.**  
+> Saturday 28th March, at the **University of Durham**, hosted by **Mark Chambers**.
+> The topic is **Theatre in the Archives: a REED Retrospective**.
 
-
-![banner_sm](/assets/banner_sm.jpg)
+<img src="/assets/banner_sm.jpg" style="margin:auto;"/>
 
