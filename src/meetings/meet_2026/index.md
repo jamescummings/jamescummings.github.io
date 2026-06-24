@@ -63,7 +63,7 @@ evening** at attendees’ own expense. This will take place in the ‘ **Rabbit 
 - 12.50 *Mark Chambers* and/or *Cecilia Istria-Dorland* ):  
           Introduction to the afternoon play
 - 13.00-14.00 **Lunch**  
-- 14.00-15.30
+- 14.00-15.30
   - *Diana Wyatt* (York):  
           ‘“Contempt and disdayne” or Satirical Theatre? Alice Walker’s Cross-dressing Turn in Driffield Church, 1582, and its Status as a *REED* Record’  
   - *Isabelle Lepore-Thompson* (Open University):  
