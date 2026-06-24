@@ -11,7 +11,7 @@ li > ul {margin-bottom: 1em;}
 .post-content > ul > li:last-child { border: 0;}
 </style>
 
-> ##Saturday 29 March 2025  
+>## Saturday 29 March 2025  
 > **Medieval Theatre in Action**  
 > **University of Bristol**  
 > Hosted by [Eleanor Rycroft](https://www.bristol.ac.uk/people/person/Eleanor-Rycroft-2c4543b4-04cf-458d-8c59-d1ac2f214bb4/) and [Cathy Hume](https://www.bristol.ac.uk/people/person/Cathy-Hume-f7c9bb18-f5e8-4f83-a834-847bb23a1f6c/).  
