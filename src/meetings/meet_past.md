@@ -8,8 +8,7 @@ permalink: /meetings/meet_past.html
 <style type="text/css">
 li > ul {margin-bottom: 1em;}
 .post-content > ul > li { padding:5px;border-bottom: 1px solid #dddddd;}
-.post-content > ul > li:hover {background-color: #f7c28d;}
-.post-content > ul > li:nth-child(even) {background-color: #e6d9cc;}
+.post-content > ul > li:nth-child(odd) {background-color: #e6d9cc;}
 .post-content > ul > li:last-child { border: 0;}
 </style>
 
