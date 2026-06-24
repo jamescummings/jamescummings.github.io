@@ -70,9 +70,9 @@ evening** at attendees’ own expense. This will take place in the ‘ **Rabbit 
 
  
 
-<img xmlns="http://www.w3.org/1999/xhtml" src="/assets/Laurence.jpg" width="194px" height="269px" style="margin:auto; width:194px;" title="Prior Lawrence of Durham (d. 1154), composer of the Durham *Peregrini* play (mid 12th c.), ‘The Works of Lawrence of Durham’, Durham UL Cosin MS V.iii.1, fol.22v, courtesy of the Durham Priory Library."/>
+<img xmlns="http://www.w3.org/1999/xhtml" src="/assets/Laurence.jpg" width="194px" height="269px" style="margins:auto; width:194px;" title="Prior Lawrence of Durham (d. 1154), composer of the Durham *Peregrini* play (mid 12th c.), ‘The Works of Lawrence of Durham’, Durham UL Cosin MS V.iii.1, fol.22v, courtesy of the Durham Priory Library."/>
 
-<span style="font-size:90%; text-align:centre; width:50%;">Prior Lawrence of Durham (d. 1154), composer of the Durham *Peregrini* play (mid 12th c.), ‘The Works of Lawrence of Durham’, Durham UL Cosin MS V.iii.1, fol.22v, courtesy of the Durham Priory Library.</span>
+<span style="font-size:60%; text-align:centre; width:20%;">Prior Lawrence of Durham (d. 1154), composer of the Durham *Peregrini* play (mid 12th c.), ‘The Works of Lawrence of Durham’, Durham UL Cosin MS V.iii.1, fol.22v, courtesy of the Durham Priory Library.</span>
 
-<img xmlns="http://www.w3.org/1999/xhtml" src="/assets/banner_sm.jpg" style="width:100%; margins:auto;"/>
+<img xmlns="http://www.w3.org/1999/xhtml" src="/assets/banner_sm.jpg" style="width:240px; margins:auto;"/>
 
