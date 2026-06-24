@@ -2,8 +2,7 @@
 title:  "METh Society Constitution"
 layout: page
 banner_image: "/assets/socconst.jpg"
-banner_alt: "Civic worthies from the Leuven *Ommegang* drawn by Willem Boonen; from the *Liber
-Boonen* (1594)."
+banner_alt: "Civic worthies from the Leuven *Ommegang* drawn by Willem Boonen; from the *Liber Boonen* (1594)."
 ---
 
  **Constitution Adopted 2016.**
