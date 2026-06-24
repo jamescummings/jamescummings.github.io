@@ -54,73 +54,25 @@ evening** at attendees’ own expense. This will take place in the ‘ **Rabbit 
           ‘Apple, Spice, Wine, Ale: Mundane and Sacred Foods in Early Performance Cultures’  
   - *Mark Chambers* (University of Durham) :  
           ‘50 Years of the *Records of Early English Drama* : The New, the Notable, the Necessary’
-- 12.50
-
- *Mark Chambers* and/or *Cecilia Istria-Dorland* ):  
+- 12.50 *Mark Chambers* and/or *Cecilia Istria-Dorland* ):  
           Introduction to the afternoon play
-> 
-
- 
-> 
-
-   13.00-14.00
-> 
-
- **Lunch** 
-> 
-
- 
-> 
-
-   14.00-15.30
-> 
-
- *Diana Wyatt* (York):  
-          ‘“Contempt and disdayne” or Satirical Theatre? Alice Walker’s Cross-dressing Turn in Driffield Church, 1582, and its Status as a *REED* Record’  
- *Isabelle Lepore-Thompson* (Open University):  
-          ‘The Lost Miracle Play: Contextualising the *Ludus de
-Sancta Katerina* (c.1097–1115)’  
- *Patrick Durdel* (University of Oxford):  
+- 13.00-14.00 **Lunch**  
+- 14.00-15.30
+  - *Diana Wyatt* (York):  
+          ‘“Contempt and disdayne” or Satirical Theatre? Alice Walker’s Cross-dressing Turn in Driffield Church, 1582, and its Status as a *REED* Record’  
+  - *Isabelle Lepore-Thompson* (Open University):  
+          ‘The Lost Miracle Play: Contextualising the *Ludus de Sancta Katerina* (c.1097–1115)’  
+  - *Patrick Durdel* (University of Oxford):  
           ‘The Group Theatre’s *Fulgens and Lucrece* : Modern Archival Records and Practice-as-Research’
-> 
-
- 
-> 
-
-   15.30
-> 
-
- **Break** 
-> 
-
- 
-> 
-
-   16.00
-> 
-
-Performance of the York Skinners’ ‘Entry Into Jerusalem’ pageant, Scena Mundi Theatre Co., directed by Cecilia Istri-Dorland, St Oswald’s Church, Church Street.
-> 
-
- 
-> 
-
-   17.00-18.00
-> 
-
-METh business meeting, with wine
-> 
+- 15.30 **Break** 
+- 16.00 Performance of the York Skinners’ ‘Entry Into Jerusalem’ pageant, Scena Mundi Theatre Co., directed by Cecilia Istri-Dorland, St Oswald’s Church, Church Street.
+- 17.00-18.00 METh business meeting, with wine
 
  
 
-<img xmlns="http://www.w3.org/1999/xhtml"
-     src="/assets/Laurence.jpg"
-     width="194px"
-     height="269px" style="margin:auto;"/>
+<img xmlns="http://www.w3.org/1999/xhtml" src="/assets/Laurence.jpg" width="194px" height="269px" style="margin:auto; width:194px;" title="Prior Lawrence of Durham (d. 1154), composer of the Durham *Peregrini* play (mid 12th c.), ‘The Works of Lawrence of Durham’, Durham UL Cosin MS V.iii.1, fol.22v, courtesy of the Durham Priory Library."/>
 
-Prior Lawrence of Durham (d. 1154), composer of the Durham *Peregrini* play (mid 12th c.),  
-‘The Works of Lawrence of Durham’, Durham UL Cosin MS V.iii.1, fol.22v,  
-courtesy of the Durham Priory Library.
+<span style="font-size:90%; text-align:centre; width:50%;">Prior Lawrence of Durham (d. 1154), composer of the Durham *Peregrini* play (mid 12th c.), ‘The Works of Lawrence of Durham’, Durham UL Cosin MS V.iii.1, fol.22v, courtesy of the Durham Priory Library.</span>
 
-<img xmlns="http://www.w3.org/1999/xhtml" src="/assets/banner_sm.jpg"/>
+<img xmlns="http://www.w3.org/1999/xhtml" src="/assets/banner_sm.jpg" style="width:100%; margins:auto;"/>
 
