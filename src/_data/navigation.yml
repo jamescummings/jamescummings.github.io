@@ -7,9 +7,9 @@
     - name: Application Form
       link: https://www.medievalenglishtheatre.co.uk/apply_2026.pdf
     - name: Society Committee
-      link: /society/socomm/
+      link: /society/soccomm/
     - name: Society Constitution
-      link: /society/soconst/
+      link: /society/socconst/
 - name: Meetings
   link: /meetings/
   dropdown:
