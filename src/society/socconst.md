@@ -6,7 +6,7 @@ banner_alt: "Civic worthies from the Leuven *Ommegang* drawn by Willem Boonen; f
 Boonen* (1594)."
 ---
 
- **Adopted 2016.**
+ **Constitution Adopted 2016.**
 
 Medieval English Theatre is a scholarly society whose purpose is:  
   a. to promote interest in and study of early theatre both within and beyond the academic community  
