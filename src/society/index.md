@@ -12,7 +12,8 @@ calendar year.**
  
 
 > You can now pay your subscription by **DIRECT DEBIT** .  
-> Go to [https://tinyurl.com/ybbvrom9](https://tinyurl.com/ybbvrom9)for Full Membership, or [https://tinyurl.com/yd9wr9ev](https://tinyurl.com/yd9wr9ev)for Student Membership.
+> Go to [https://tinyurl.com/ybbvrom9](https://tinyurl.com/ybbvrom9)for Full Membership, 
+> or [https://tinyurl.com/yd9wr9ev](https://tinyurl.com/yd9wr9ev)for Student Membership.
 
 
 The membership subscription for 2026 is £10 (£5 for students). This entitles members to:
