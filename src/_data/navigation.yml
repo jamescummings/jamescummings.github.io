@@ -16,7 +16,7 @@
     - name: This Year
       link: /meetings/
     - name: Past Meetings
-      link: /meetings/past_meet/
+      link: /meetings/meet_past.html
 - name: Journal 
   link: /journal/
   dropdown:
