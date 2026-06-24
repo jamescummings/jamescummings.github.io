@@ -5,7 +5,7 @@ banner_image: "/assets/meet_2026_header_REED.jpg"
 banner_alt: "Image of a Beverley document, East Riding Archives, shelfmark BC II 3 folio 13r. REED logo from *Kempes Nine Daies Wonder* (1600), original online at https://commons.wikimedia.org/wiki/File:Will_Kemp_Elizabethan_Clown_Jig.jpg."
 ---
   
-> ##Saturday 28 March 2026  
+>## Saturday 28 March 2026  
 > **Theatre in the Archives: A REED Retrospective**  
 > **University of Durham**  
 > **Elvet Riverside 1, New Elvet, Durham DH1 3AQ**  
