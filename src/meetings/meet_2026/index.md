@@ -7,7 +7,7 @@ banner_alt: "Image of a Beverley document, East Riding Archives, shelfmark BC II
 <style type="text/css">
 li > ul {margin-bottom: 1em;}
 .post-content > ul > li { padding:5px;border-bottom: 1px solid #dddddd;}
-.post-content > ul > li:nth-child(even) {background-color: #e6d9cc;}
+.post-content > ul > li:nth-child(odd) {background-color: #e6d9cc;}
 .post-content > ul > li:last-child { border: 0;}
 </style>
   
@@ -45,7 +45,7 @@ evening** at attendees’ own expense. This will take place in the ‘ **Rabbit 
  
 - 9.00 onwards **Registration and Coffee**  
 - 9.20 **Welcome**  
-- 9.30-11.00 **Panel 1: Reconsidering ‘Performance’ in the Archive**   
+- 9.30-11.00 **Panel 1: Reconsidering ‘Performance’ in the Archive**   
   - *Ben Parsons* (University of Leicester):  
           ‘Mum’s the Word: E.K. Chambers, Horatia Eden and the Lutterworth St George Play’  
   - *Phil Butterworth* (University of Leeds):  
