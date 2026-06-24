@@ -28,7 +28,7 @@ Printable and fully Linked PDF: [Travel, Accommodation, and Some Things to Do th
 
 ----
 
-### <a xmlns="http://www.w3.org/1999/xhtml" name="#cfp" id="#cfp"> </a> **PROGRAMME** 
+### <a xmlns="http://www.w3.org/1999/xhtml" name="#prog" id="#prog"> </a> **PROGRAMME** 
 
  [Programme](meeting_2026_programme.pdf) 
 
@@ -116,12 +116,11 @@ METh business meeting, with wine
 <img xmlns="http://www.w3.org/1999/xhtml"
      src="/assets/Laurence.jpg"
      width="194px"
-     height="269px"/>
+     height="269px" style="margin:auto;"/>
 
 Prior Lawrence of Durham (d. 1154), composer of the Durham *Peregrini* play (mid 12th c.),  
 ‘The Works of Lawrence of Durham’, Durham UL Cosin MS V.iii.1, fol.22v,  
 courtesy of the Durham Priory Library.
 
 <img xmlns="http://www.w3.org/1999/xhtml" src="/assets/banner_sm.jpg"/>
-----
 
