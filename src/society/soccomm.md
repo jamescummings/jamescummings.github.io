@@ -23,6 +23,7 @@ The Committee for the Society consists of the following roles:
 - Electronic Communications officer: [Aurélie Blanc](https://www.unifr.ch/directory/en/people/13700/ee4f6) .
 - PGR Society Member: [Georgina Crespi](https://www.researchgate.net/profile/Georgina-Crespi) 
 
-N.b.: those whose names appear twice because of their roles only have one vote.
+  N.b.: those whose names appear twice because of their roles only have one vote.
+
 ----
 
