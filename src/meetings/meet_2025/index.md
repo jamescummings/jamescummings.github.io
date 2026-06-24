@@ -11,7 +11,7 @@ li > ul {margin-bottom: 1em;}
 .post-content > ul > li:last-child { border: 0;}
 </style>
 
->##Saturday 29 March 2025
+> ##Saturday 29 March 2025
 > **Medieval Theatre in Action** 
 > **University of Bristol** 
 > Hosted by [Eleanor Rycroft](https://www.bristol.ac.uk/people/person/Eleanor-Rycroft-2c4543b4-04cf-458d-8c59-d1ac2f214bb4/) and [Cathy Hume](https://www.bristol.ac.uk/people/person/Cathy-Hume-f7c9bb18-f5e8-4f83-a834-847bb23a1f6c/).
@@ -55,7 +55,7 @@ and [Hotel Discount Code (pdf)](discount_2025.pdf)
 - 12.50 *Cathy Hume* (University of Bristol):  
           ‘Introduction to *The Life of Job* ’
 - 13.00-14.00 **Lunch** .
-- 14.00-15.00 **Performance of The Life of Jobwith coffee and cake** 
+- 14.00-15.00 **Performance of The Life of Job with coffee and cake** 
 - 15.30-16.30 **Panel 3: Action and Religion**   
  *Lucy Deacon* and *Sara Khalili Jahromi* (Université de Fribourg):  
           ‘Staging the struggle of Satan and Ayoub (Job) in the Iranian Ta‘ziyeh ’  
