@@ -7,12 +7,10 @@ permalink: /meetings/meet_past.html
 ---
 <style type="text/css">
 li > ul {margin-bottom: 1em;}
-main > ul > li { padding:5px;border-bottom: 1px solid #dddddd;}
-main > ul > li:hover {background-color: #f7c28d;}
-main > ul > li:nth-child(even) {background-color: #e6d9cc;}
-li:last-child {
-  border: 0;
-}
+.post-content > ul > li { padding:5px;border-bottom: 1px solid #dddddd;}
+.post-content > ul > li:hover {background-color: #f7c28d;}
+.post-content > ul > li:nth-child(even) {background-color: #e6d9cc;}
+.post-content > ul > li:last-child { border: 0;}
 </style>
 
 Medieval English Theatre holds a meeting each year on the last Saturday in March, each time in a different venue and on a different topic. The list below gives a conspectus of all past meetings from the original one at Lancaster in 1979, held to discuss 'The Pageant Waggon'. The papers at that meeting were the genesis of the journal.
