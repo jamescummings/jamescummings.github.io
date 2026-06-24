@@ -5,6 +5,10 @@ banner_image: "/assets/meet_past.jpg"
 banner_alt: "'The Visitation': mid 15th-century glass from St Peter and St Paul, East Harling, possibly contemporaneous with the N.Town Plays. Photo © Meg Twycross."
 permalink: /meetings/meet_past.html
 ---
+<style type="text/css">
+h1 {color:red;}
+li > ul {margin-bottom: 2em;}
+</style>
 
 Medieval English Theatre holds a meeting each year on the last Saturday in March, each time in a different venue and on a different topic. The list below gives a conspectus of all past meetings from the original one at Lancaster in 1979, held to discuss 'The Pageant Waggon'. The papers at that meeting were the genesis of the journal.
 
