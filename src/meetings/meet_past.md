@@ -7,6 +7,9 @@ permalink: /meetings/meet_past.html
 ---
 <style type="text/css">
 li > ul {margin-bottom: 1em;}
+main > ul > li { padding:5px;border-bottom: 1px solid #dddddd;}
+main > ul > li:hover {background-color: #f7c28d;}
+main > ul > li:nth-child(even) {background-color: #e6d9cc;}
 li:last-child {
   border: 0;
 }
