@@ -59,5 +59,4 @@ Date: ___________________________           Date: ________________________
 
 a)  a contract has been entered into with Boydell and Brewer with regard to the *METh* journal. The journal will continue to be edited and prepared by the Editors and the Editorial Board of the Society, but it will be published and distributed by Boydell and Brewer.  
 
-----
 

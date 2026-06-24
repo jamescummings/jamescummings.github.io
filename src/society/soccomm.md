@@ -25,5 +25,3 @@ The Committee for the Society consists of the following roles:
 
 N.b.: those whose names appear twice because of their roles only have one vote.
 
-----
-
