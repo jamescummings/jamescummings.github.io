@@ -29,7 +29,7 @@ Newcastle is an amazing city, and these links will help you to explore it furthe
 
 ----
 
-### <a xmlns="http://www.w3.org/1999/xhtml" name="#programme" id="#programme"> </a> **PROGRAMME** 
+### <a xmlns="http://www.w3.org/1999/xhtml" name="#programme" id="#programme"/>**PROGRAMME** 
 
 For **Abstracts** of the following papers, please see the conference website [Programme with Abstracts](https://conferences.ncl.ac.uk/meth2024/programme/) page.
 
@@ -61,7 +61,7 @@ For **Abstracts** of the following papers, please see the conference website [Pr
 ----
 
 
-### <a xmlns="http://www.w3.org/1999/xhtml"   name="registration"   id="registration"/> **REGISTRATION**
+### <a xmlns="http://www.w3.org/1999/xhtml"   name="registration"   id="registration"/>**REGISTRATION**
 
 Registration for METh 2024 is now open.  
 Registration for METh2024 is via [Newcastle University's WebStore](https://conferences.ncl.ac.uk/meth2024/registration/) and will close on the **28 March 2024**.  
@@ -72,7 +72,7 @@ The cost of registration includes all refreshments and lunch on Saturday 6 April
 
 ----
  
-### <a xmlns="http://www.w3.org/1999/xhtml" name="dinner" id="dinner"/> **CONFERENCE DINNER**
+### <a xmlns="http://www.w3.org/1999/xhtml" name="dinner" id="dinner"/>**CONFERENCE DINNER**
 
 
 As is tradition with METh, there is an optional Friday evening meal before the conference. Our reservation is for **Friday 5
