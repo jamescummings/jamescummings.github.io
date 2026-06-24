@@ -14,8 +14,8 @@ The format varies, but usually consists of brief papers followed by informal dis
 > hosted by [Mark Chambers](https://www.durham.ac.uk/staff/mark-chambers/) .  
 > on **Theatre in the Archives: a REED Retrospective**.
 > 
-> Go to[ **2026 Meeting** ](/meetings/meet_2026/meet_2026.html)for **Registration** and **Programme** ..
+> Go to[ **2026 Meeting** ](/meetings/meet_2026/)for **Registration** and **Programme** ..
 
 
-An archive of[past meetings](/meetings/meet_past.html)and their themes, with programmes from 2002 onwards, can be found via the drop-down menu above.
+An archive of[past meetings](/meetings/meet_past/)and their themes, with programmes from 2002 onwards, can be found via the drop-down menu above.
 
