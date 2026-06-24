@@ -9,10 +9,10 @@ li > ul {margin-bottom: 1em;}
 .post-content > ul > li:nth-child(even) {background-color: #e6d9cc;}
 </style>
 
-> ##Saturday 6 April 2024
-> **Dramatic Margins** 
-> **Newcastle University** 
-> Hosted by [James Cummings](https://www.ncl.ac.uk/elll/people/profile/jamescummings.html).   
+> ##Saturday 6 April 2024  
+> **Dramatic Margins**  
+> **Newcastle University**  
+> Hosted by [James Cummings](https://www.ncl.ac.uk/elll/people/profile/jamescummings.html).  
 
 ### Delegate Information
 
