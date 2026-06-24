@@ -42,9 +42,8 @@ For **Abstracts** of the following papers, please see the conference website [Pr
           ‘Christ Riding the Stang’  
  *Sarah Grandage* (University of Nottingham) and Dana Key (University of Nottingham):  
           ‘Narrating from the Margins’
-- 12.30-13.30
-- **Lunch** (at venue).
-- 13.30-15.00 **Session 2: Drama on the Margins**   
+- 12.30-13.30 **Lunch** (at venue).  
+- 13.30-15.00 **Session 2: Drama on the Margins**  
  *Nadia van Pelt* (Delft University of Technology) and *Olivia Robinson* (University of Birmingham):  
           ‘Reconsidering the Ludic Figures in Kuperstichkabinett MS 78 D5’  
  *Margaret Pappano* (Queen’s University, Canada):  
