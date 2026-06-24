@@ -12,7 +12,7 @@ calendar year.**
  
 
 > You can now pay your subscription by **DIRECT DEBIT** .  
-> Go to[https://tinyurl.com/ybbvrom9](https://tinyurl.com/ybbvrom9)for Full Membership, or[https://tinyurl.com/yd9wr9ev](https://tinyurl.com/yd9wr9ev)for Student Membership.
+> Go to [https://tinyurl.com/ybbvrom9](https://tinyurl.com/ybbvrom9)for Full Membership, or [https://tinyurl.com/yd9wr9ev](https://tinyurl.com/yd9wr9ev)for Student Membership.
 
 
 The membership subscription for 2026 is £10 (£5 for students). This entitles members to:
@@ -27,10 +27,10 @@ Membership dues are used by the society to cover its costs, including website ma
 
  
 
-> [APPLICATION FORM (fillable pdf)](/assets/apply_2026.pdf)
+> [APPLICATION FORM (fillable pdf)](/society/apply_2026.pdf)
  
 
-*    The **preferential price for volumes of METh** includes **a discount of 40%** . This applies to both paper and e-book versions. When you pay your membership fee, the Treasurer will send you the code to activate this discount, which you should quote when you order from the Boydell &amp; Brewer website.  Boydell &amp; Brewer have kindly extended this discount to all the back numbers of *METh* which they publish, going back to Volume 37 (2015). See [**Boydell &amp; Brewer website for Volume 46 (2024)**](https://boydellandbrewer.com/book/medieval-english-theatre-46-9781843847519/), and go to bottom of screen for other volumes. Volume 47 (2025) is now at press.
+   * The **preferential price for volumes of METh** includes **a discount of 40%** . This applies to both paper and e-book versions. When you pay your membership fee, the Treasurer will send you the code to activate this discount, which you should quote when you order from the Boydell &amp; Brewer website.  Boydell &amp; Brewer have kindly extended this discount to all the back numbers of *METh* which they publish, going back to Volume 37 (2015). See [**Boydell &amp; Brewer website for Volume 46 (2024)**](https://boydellandbrewer.com/book/medieval-english-theatre-46-9781843847519/), and go to bottom of screen for other volumes. Volume 47 (2025) is now at press.
 
  **Overseas Members**   
 We are offering overseas full members who envisage long-term membership of METh a ten-year membership (£100), which would be paid in one bank transfer, with nothing further to pay during that time. We also offer an eleventh year of membership free as a bonus.  
