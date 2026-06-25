@@ -79,7 +79,7 @@ The following will give papers at the meeting:
 
 - The Business section will begin with reports on digital or collaborative projects around 4.00 p.m. Please indicate on the registration form if you wish to make a report. It is expected that there will be a report on articles of association for the Medieval English Theatre group.
 
-## <a xmlns="http://www.w3.org/1999/xhtml" name="registration"  id="registration"/> **Registration^^ 
+## <a xmlns="http://www.w3.org/1999/xhtml" name="registration"  id="registration"/> **Registration**
 Copies of the [Registration Form](Registration.doc) are available here. Please print it off: do not attempt to fill it in on-line!
 
 John J McGavin  
