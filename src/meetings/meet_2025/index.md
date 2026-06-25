@@ -4,12 +4,6 @@ layout: page
 banner_image: "/assets/meet_2025_header.jpg"
 banner_alt: "Image from Bibliothèque nationale de France. Département des Manuscrits Rothschild 3010 fols 14v-15r https://gallica.bnf.fr/ark:/12148/btv1b55005972m/f40.item.r=Valenciennes: *Mistere de la Passion* (Valenciennes, 1547)."
 ---
-<style type="text/css">
-li > ul {margin-bottom: 1em;}
-.post-content > ul > li { padding:5px;border-bottom: 1px solid #dddddd;}
-.post-content > ul > li:nth-child(even) {background-color: #e6d9cc;}
-.post-content > ul > li:last-child { border: 0;}
-</style>
 
 >## Saturday 29 March 2025  
 > **Medieval Theatre in Action**  

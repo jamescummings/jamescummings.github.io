@@ -4,12 +4,6 @@ layout: page
 banner_image: "/assets/meet_2026_header_REED.jpg"
 banner_alt: "Image of a Beverley document, East Riding Archives, shelfmark BC II 3 folio 13r. REED logo from *Kempes Nine Daies Wonder* (1600), original online at https://commons.wikimedia.org/wiki/File:Will_Kemp_Elizabethan_Clown_Jig.jpg."
 ---
-<style type="text/css">
-li > ul {margin-bottom: 1em;}
-.post-content > ul > li { padding:5px;border-bottom: 1px solid #dddddd;}
-.post-content > ul > li:nth-child(even) {background-color: #e6d9cc;}
-.post-content > ul > li:last-child { border: 0;}
-</style>
   
 >## Saturday 28 March 2026  
 > **Theatre in the Archives: A REED Retrospective**  

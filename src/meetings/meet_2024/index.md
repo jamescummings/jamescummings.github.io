@@ -4,10 +4,7 @@ layout: page
 banner_image: "/assets/meet_2024_header.jpg"
 banner_alt: "Oxford: Bodleian Library, bas-de-page from MS Bodley 264, fol.84v [, slightly tweaked to fit. https://digital.bodleian.ox.ac.uk/objects/ae9f6cca-ae5c-4149-8fe4-95e6eca1f73c/surfaces/efa6ef11-64ca-48f7-93fb-7a2c31852d1f/"
 ---
-<style type="text/css">
-li > ul {margin-bottom: 1em;}
-.post-content > ul > li:nth-child(even) {background-color: #e6d9cc;}
-</style>
+
 
 >## Saturday 6 April 2024  
 > **Dramatic Margins**  

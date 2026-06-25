@@ -2,6 +2,7 @@
 
 $grey-color:       #f9ecdf !default;
 
+/* Use blockquote for centred highlight section */
 blockquote {
     color: #33382c;
     border-left: 4px solid #e8e8e8;
@@ -14,8 +15,14 @@ blockquote {
     background:#FFFCFC;
 }
 
-
+/* ensure fb icon visible */
 .svg-icon {fill: gray;}
+
+/* list items alternatively coloured */
+li > ul {margin-bottom: 1em;}
+.post-content > ul > li:nth-child(even) {background-color: #f7ebdf;}
+
+
 
 
 
