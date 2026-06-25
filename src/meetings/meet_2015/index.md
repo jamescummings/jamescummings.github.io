@@ -34,7 +34,7 @@ first.*
 
 - Details of the Medieval English Theatre **bank account** are on the Registration Form. If paying by bank transfer, please give the following reference to identify your payment: �Meet2015� followed by your surname.
 
-### **Directions and parking** <a xmlns="http://www.w3.org/1999/xhtml" name="maps" id="maps"/>
+###  **Directions and parking** <a xmlns="http://www.w3.org/1999/xhtml" name="maps" id="maps"/>
 
 
 -  **Saturday Conference** . We have changed to a neighbouring room to accommodate a full conference of 30. It will now be held in **Avenue Campus, Parkes Building** (the larger of the two buildings on the site), **Rm 1173** . Please try to enter the building from the car park by the main door which has RECEPTION above the door. Rm 1173 is on the ground floor on the North Corridor (which we have also booked). There will be signage. The car park is very spacious. There is no charge.  

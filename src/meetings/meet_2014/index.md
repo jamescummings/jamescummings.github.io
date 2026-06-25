@@ -16,7 +16,7 @@ Go to     [ **PROGRAMME** ](programme_2014/)     page
 
 ----
 
-###      **Registration Details** 
+###  **Registration Details** 
 
 - The registration Fee is �40. Please **register** by downloading and filling in the [Registration form](reg_form2014.docx), and sending it with payment to **Dr Sue Niebrzydowski** by **1 March 2014** at the latest. *Do not try to fill in the form online.*   
 
@@ -24,7 +24,7 @@ Go to     [ **PROGRAMME** ](programme_2014/)     page
 
 - Details of the Medieval English Theatre **bank account** are on the Registration Form. If paying by bank transfer, please give the following reference to identify your payment: �Meet2014� followed by your surname.
 
-###      **Overnight accommodation**
+###  **Overnight accommodation**
 
 - A number of single, en suite bedrooms are available in Murray Edwards College for Friday 28th and Saturday 29th March, at �83.70 per night. The cost includes breakfast.  
 Please note, rooms need to be booked by **6th December 2013** at the latest. After that date there is no guarantee that they will be available. (After 6 December, please check with Dr Strietman that there is a room available: e-mail: **es10004@cam.ac.uk**.)  
@@ -33,13 +33,13 @@ Cheques for room payment should be made out to �Murray Edwards College� and 
 - If you would prefer to find a hotel room or a B&amp;B,  
  [http://www.laterooms.com/en/p1301/pv080583aDVCc/k16282392_cambridge-hotels.aspx](http://www.laterooms.com/en/p1301/pv080583aDVCc/k16282392_cambridge-hotels.aspx) gives a wide selection in the area, with discounted prices. Another useful site is [http://www.cambridgerooms.co.uk](http://www.cambridgerooms.co.uk). Cambridge is a very popular (and quite pricey) destination, so it would be prudent to book now.
 
-###      **Dinners** 
+###  **Dinners** 
 
 - There will be a dinner in the Fellows Dining Room on the evening of Friday 28 March (not included in conference fee). The cost is �32.00. (*Please sign up for it on the Registration Form.*)  
 
 - For those staying on after the conference, there will be a three-course dinner in the Fellows Dining Room on the evening of Saturday 29 March (not included in conference fee). The cost is �38.00 per person. ( *See Registration Form.* )
 
-###      **Parking**
+###  **Parking**
 For directions to the College and car parking, see the [attached maps](maps.pdf), or go to the [College website](http://www.murrayedwards.cam.ac.uk/alumnae/visitingcollege/mapsanddirections/) .
 ----
 

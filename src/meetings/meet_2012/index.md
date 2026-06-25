@@ -17,7 +17,7 @@ banner_alt: "METh Title Banner"
 
 ----
 
-###      **Registration Details:** 
+### **Registration Details:**  
 
 - Please **register** by downloading and filling in the [Registration form](reg_form_2012.doc), and sending it with payment or evidence of payment to **Dr Sue Niebrzydowski** by **19 March** at the latest. *Do not try to
 fill in the form online.*  

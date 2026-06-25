@@ -18,7 +18,7 @@ banner_alt: "METh Title Banner"
 
 ----
 
-###      **Registration Details** 
+### **Registration Details**  
 
 - Please **register** by downloading and filling in the [Registration form](reg_form_2010.doc) , and send it with payment to **Dr Sue Niebrzydowski**, School of English, Bangor University, Gwynedd, LL57 2DG by **12 March** at the latest. *Do not try to fill in the form online.* For further information please contact Sue at **s.niebrzydowski@bangor.ac.uk** or by phoning her at 01248 382111 (work).  
 
@@ -34,7 +34,5 @@ Go to     [ **PROGRAMME** ](programme_2010/)     page
 ----
 
  [Return to Meetings page](/meetings/) .
-
-----
 
 

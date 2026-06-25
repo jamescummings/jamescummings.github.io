@@ -48,7 +48,7 @@ s.niebrzydowski@bangor.ac.uk** or by phoning her at 01248 382111 (work).
 ### <a xmlns="http://www.w3.org/1999/xhtml" name="travel" id="travel"/> **Travel** 
 
 
-- For the situation of Burwalls please click the following link to their website, [http://http://www.bristol.ac.uk/burwalls/](http://www.bristol.ac.uk/burwalls/) and then the link to multimap.com: [http://www.multimap.com/maps/?&amp;hloc=GB|BS8%203PD](http://www.multimap.com/maps/?&amp;hloc=GB|BS8%203PD)   
+- For the situation of Burwalls please click the following link to their website, [http://http://www.bristol.ac.uk/burwalls/](http://www.bristol.ac.uk/burwalls/) and then the link to multimap.com: [http://www.multimap.com/maps/?&amp;hloc=GB\|BS8%203PD](http://www.multimap.com/maps/?&amp;hloc=GB\|BS8%203PD)   
 
 - From the station (Temple Meads) you can either get a taxi, or the no. 9 bus from the station concourse will take you to Clifton Down Road, from where it is a ten-minute walk across the suspension bridge to Burwalls.  
 

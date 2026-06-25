@@ -18,11 +18,11 @@ banner_alt: "METh Title Banner"
 
      In keeping with the theme of travel, we will feature a performance of **Everyman** by students from the University of Hull,  under the direction of Philip Crispin.
 
-###      **Registration Details** 
+###  **Registration Details** 
 
 - Please **register** by downloading and filling in the [Registration form](reg_form_2013.doc) , and sending it with payment ( **sterling cheque** ) by post to Dr Sue Niebrzydowski, School of English, Bangor University, Gwynedd, LL57 2DG, by **14 March** at the latest. *Do not try to fill in the form online.* 
 
-###      **Overnight accommodation** 
+###  **Overnight accommodation** 
   There is no accomodation available at the university.  
   A list of local hotels and B&amp;Bs is attached to the Registration Form. Some of them can be booked through  
     [http://www.laterooms.com/en/k16279210_bangor-hotels.aspx](http://www.laterooms.com/en/k16279210_bangor-hotels.aspx).  
