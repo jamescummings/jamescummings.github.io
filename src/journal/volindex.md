@@ -6,7 +6,8 @@ banner_alt: "BL MS Royal 14 E V, detail from fol. 391 (Boccaccio and Petrarch). 
 permalink: /journal/volindex.html
 ---
 
-Jump to individual volume for contents list and other information: 
+Jump to individual volume for contents list and other information:  
+
 | [Vols 1-6](#01) | [Vols 7-12](#07) | [Vols 13-18](#13) | [Vols 19-24](#19) | [Vols 25-36](#25) | [Vols 37-45](#37) | [Vols 46- ](#46) |
 
 
