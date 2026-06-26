@@ -25,6 +25,11 @@ We have taken the difficult decision to make the work of those who have died ava
 
 #### Volume Index
 
+- [](#45) Volume Forty-Five (2023) [Contents](vol45.html) [![Cover](/assets/covers/vol45vsm.jpg)](vol45.html)
+- [](#46) Volume Forty-Six (2024) [Contents](vol46.html) [![Cover](/assets/covers/vol46vsm.jpg)](vol46.html)
+{: .volume-list}
+
+
 - <a xmlns="http://www.w3.org/1999/xhtml" name="01" id="01"/> Volume One (1979)  [Contents and PDFs](vol01.html)  [<img xmlns="http://www.w3.org/1999/xhtml" src="/assets/covers/vol01sm.gif"/>](vol01.html) 
 - <a xmlns="http://www.w3.org/1999/xhtml" name="02" id="02"/> Volume Two (1980)   [Contents and PDFs](vol02.html)   [<img xmlns="http://www.w3.org/1999/xhtml" src="/assets/covers/vol02sm.gif"/>](vol02.html) 
 - <a xmlns="http://www.w3.org/1999/xhtml" name="03" id="03"/> Volume Three (1981)   [Contents and PDFs](vol03.html)   [<img xmlns="http://www.w3.org/1999/xhtml" src="/assets/covers/vol03sm.gif"/>](vol03.html) 
@@ -66,7 +71,8 @@ We have taken the difficult decision to make the work of those who have died ava
 - <a xmlns="http://www.w3.org/1999/xhtml" name="35" id="35"/> Volume Thirty-Five (2013)   [Contents and PDFs](vol35.html)   [<img xmlns="http://www.w3.org/1999/xhtml"     src="/assets/covers/vol35vsm.jpg"     width="94px"     height="132px"     border="0"/>](vol35.html) 
 - <a xmlns="http://www.w3.org/1999/xhtml" name="36" id="36"/> Volume Thirty-Six (2014)   [Contents and PDFs](vol36.html)   [<img xmlns="http://www.w3.org/1999/xhtml" src="/assets/covers/vol36vsm.jpg"/>](vol36.html) 
 {: .volume-list}
-
+  
+  
 #### Published by BOYDELL &amp; BREWER  
 - <a xmlns="http://www.w3.org/1999/xhtml" name="37" id="37"/> Volume Thirty-Seven (2015)   [Contents](vol37.html)   [<img xmlns="http://www.w3.org/1999/xhtml"     src="/assets/covers/vol37vsm.jpg"     width="94px"     height="132px"     border="0"/>](vol37.html) 
 - <a xmlns="http://www.w3.org/1999/xhtml" name="38" id="38"/> Volume Thirty-Eight (2016)   [Contents](vol38.html)   [<img xmlns="http://www.w3.org/1999/xhtml" src="/assets/covers/vol38vsm.jpg"/>](vol36.html) 
@@ -78,7 +84,7 @@ We have taken the difficult decision to make the work of those who have died ava
 - <a xmlns="http://www.w3.org/1999/xhtml" name="44" id="44"> </a>Volume 44 (2022)   [Contents](vol44.html)   [<img xmlns="http://www.w3.org/1999/xhtml"     src="/assets/covers/vol44vsm.jpg"     width="95px"     height="132px"     border="0"/>](vol44.html) 
 - <a xmlns="http://www.w3.org/1999/xhtml" name="45" id="45"/> Volume Forty-Five (2023)   [Contents](vol45.html)   [<img xmlns="http://www.w3.org/1999/xhtml"     src="/assets/covers/vol45vsm.jpg"     width="95px"     height="132px"     border="0"/>](vol45.html) 
 - <a xmlns="http://www.w3.org/1999/xhtml" name="46" id="46"/> Volume 46 (2024)  
-To Come.  [<img xmlns="http://www.w3.org/1999/xhtml"     src="/assets/covers/vol46vsm.jpg"     width="95px"     height="132px"     border="0"/>](https://boydellandbrewer.com/9781843846499/medieval-english-theatre-46/)
+[To Come.](volindex.html)  [<img xmlns="http://www.w3.org/1999/xhtml"     src="/assets/covers/vol46vsm.jpg"     width="95px"     height="132px"     border="0"/>](vol46.html)
 {: .volume-list}
 
 
