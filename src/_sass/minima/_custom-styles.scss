@@ -32,7 +32,7 @@ li > ul > li {padding: 0.1em;}
   align-items: center; /* Vertically centers the text and the image */
   gap: 20px;           /* Ensures clean spacing between text elements */
   padding: 10px 0;  
-  justify-content: flex-start; /* Keeps text and Contents link together */
+  justify-content: justify; /* Keeps text and Contents link together */
   padding: 8px 0;              /* Gives each row some breathing room */
   
 }
