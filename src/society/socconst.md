@@ -34,11 +34,11 @@ Theatre* journal (currently 3 in number)
 
 
    Members will receive:  
- - advance information about the annual meeting and any other activities  
- - a preferential rate for conference attendance  
- - voting rights at the Society Business Meeting  
- - access, via the secretary, to the membership circulation list for appropriate purposes  
- - a preferential rate for the journal.
+- advance information about the annual meeting and any other activities  
+- a preferential rate for conference attendance  
+- voting rights at the Society Business Meeting  
+- access, via the secretary, to the membership circulation list for appropriate purposes  
+- a preferential rate for the journal.
 
 7. Institutional subscription to the journal *Medieval English Theatre* does not confer individual membership or the rights relating to it.
 
