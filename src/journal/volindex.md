@@ -25,12 +25,7 @@ We have taken the difficult decision to make the work of those who have died ava
 
 #### Volume Index
 
-- [](#45) Volume Forty-Five (2023) [Contents](vol45.html) [![Cover](/assets/covers/vol45vsm.jpg)](vol45.html)
-- [](#46) Volume Forty-Six (2024) [Contents](vol46.html) [![Cover](/assets/covers/vol46vsm.jpg)](vol46.html)
-{: .volume-list}
-
-
-- <a xmlns="http://www.w3.org/1999/xhtml" name="01" id="01"/> Volume One (1979)  [Contents and PDFs](vol01.html)  [<img xmlns="http://www.w3.org/1999/xhtml" src="/assets/covers/vol01sm.gif"/>](vol01.html) 
+- <a name="01" id="01"/> Volume One (1979)  [Contents and PDFs](vol01.html)  [<img src="/assets/covers/vol01sm.gif"/>](vol01.html) 
 - <a xmlns="http://www.w3.org/1999/xhtml" name="02" id="02"/> Volume Two (1980)   [Contents and PDFs](vol02.html)   [<img xmlns="http://www.w3.org/1999/xhtml" src="/assets/covers/vol02sm.gif"/>](vol02.html) 
 - <a xmlns="http://www.w3.org/1999/xhtml" name="03" id="03"/> Volume Three (1981)   [Contents and PDFs](vol03.html)   [<img xmlns="http://www.w3.org/1999/xhtml" src="/assets/covers/vol03sm.gif"/>](vol03.html) 
 - <a xmlns="http://www.w3.org/1999/xhtml" name="04" id="04"/> Volume Four (1982)   [Contents](vol04.html)   [<img xmlns="http://www.w3.org/1999/xhtml" src="/assets/covers/vol04sm.gif"/>](vol04.html) 
