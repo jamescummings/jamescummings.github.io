@@ -65,7 +65,9 @@ We have taken the difficult decision to make the work of those who have died ava
 - <a xmlns="http://www.w3.org/1999/xhtml" name="34" id="34"/> Volume Thirty-Four (2012)   [Contents and PDFs](vol34.html)   [<img xmlns="http://www.w3.org/1999/xhtml" src="/assets/covers/vol34vsm.jpg"/>](vol34.html) 
 - <a xmlns="http://www.w3.org/1999/xhtml" name="35" id="35"/> Volume Thirty-Five (2013)   [Contents and PDFs](vol35.html)   [<img xmlns="http://www.w3.org/1999/xhtml"     src="/assets/covers/vol35vsm.jpg"     width="94px"     height="132px"     border="0"/>](vol35.html) 
 - <a xmlns="http://www.w3.org/1999/xhtml" name="36" id="36"/> Volume Thirty-Six (2014)   [Contents and PDFs](vol36.html)   [<img xmlns="http://www.w3.org/1999/xhtml" src="/assets/covers/vol36vsm.jpg"/>](vol36.html) 
-#### Published by BOYDELL &amp; BREWER
+{: .volume-list}
+
+#### Published by BOYDELL &amp; BREWER  
 - <a xmlns="http://www.w3.org/1999/xhtml" name="37" id="37"/> Volume Thirty-Seven (2015)   [Contents](vol37.html)   [<img xmlns="http://www.w3.org/1999/xhtml"     src="/assets/covers/vol37vsm.jpg"     width="94px"     height="132px"     border="0"/>](vol37.html) 
 - <a xmlns="http://www.w3.org/1999/xhtml" name="38" id="38"/> Volume Thirty-Eight (2016)   [Contents](vol38.html)   [<img xmlns="http://www.w3.org/1999/xhtml" src="/assets/covers/vol38vsm.jpg"/>](vol36.html) 
 - <a xmlns="http://www.w3.org/1999/xhtml" name="39" id="39"/> Volume Thirty-Nine (2017)   [Contents](vol39.html)   [<img xmlns="http://www.w3.org/1999/xhtml"      src="/assets/covers/vol39vsm.jpg"     width="94px"     height="131px"    border="0"/>](vol39.html) 

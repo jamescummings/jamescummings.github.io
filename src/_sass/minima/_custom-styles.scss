@@ -26,27 +26,27 @@ li > ul {margin-bottom: 1em;}
 li {padding: 1em;}
 li > ul > li {padding: 0.1em;}
 
-/* Custom alignment for the volume list */
+
+
 .volume-list li {
-  display: flex;
-  align-items: center; /* Vertically centers the text and the image */
-  gap: 20px;           /* Ensures clean spacing between text elements */
-  padding: 10px 0;  
-  justify-content: space-evenly; /* Keeps text and Contents link together */
-  padding: 8px 0;              /* Gives each row some breathing room */
-  
+  display: grid;
+  /* TRICK: Left and Right columns split remaining space evenly (1fr), 
+     forcing the Middle column (auto) to be perfectly centered. */
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  padding: 10px 0;
 }
 
-/* Target the last anchor tag inside the li (the image link) */
-.volume-list li a:last-child {
-  margin-left: auto;   /* Magic trick: pushes this item to the far right */
-  flex-shrink: 0;      /* Prevents the image from getting squeezed */
+/* 1. Pull the empty placeholder anchor (#45) out of the grid flow 
+      so it doesn't accidentally steal a column slot */
+.volume-list li a:not([href]) {
+  position: absolute;
 }
 
-
-
-
-
+/* 2. Force the image link to anchor itself to the far right edge of its column */
+.volume-list li a:has(img) {
+  justify-self: end;
+}
 
 
 
