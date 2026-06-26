@@ -7,9 +7,9 @@
     - name: Application Form
       link: /society/apply_2026.pdf
     - name: Society Committee
-      link: /society/soccomm/
+      link: /society/soccomm.html
     - name: Society Constitution
-      link: /society/socconst/
+      link: /society/socconst.html
 - name: Meetings
   link: /meetings/
   dropdown:
@@ -21,19 +21,19 @@
   link: /journal/
   dropdown:
     - name: Volume Index
-      link: /journal/volindex/
+      link: /journal/volindex.html
     - name: Author Index
-      link: /journal/cumindac/
+      link: /journal/cumindac.html
     - name: Boydell &amp; Brewer
       link: https://boydellandbrewer.com/search-results/?series=medieval-english-theatre
     - name: Back Numbers
-      link: /journal/back_nos/
+      link: /journal/back_nos.html
     - name: METh Texts
-      link: /journal/sales_texts/
+      link: /journal/sales_texts.html
     - name: Editorial Board
-      link: /journal/methedit/
+      link: /journal/methedit.html
     - name: For Authors 
-      link: /journal/authors/
+      link: /journal/authors.html
 - name: Other
   link: /other/
   dropdown:
