@@ -26,6 +26,28 @@ li > ul {margin-bottom: 1em;}
 li {padding: 1em;}
 li > ul > li {padding: 0.1em;}
 
+/* Custom alignment for the volume list */
+.volume-list li {
+  display: flex;
+  align-items: center; /* Vertically centers the text and the image */
+  gap: 20px;           /* Ensures clean spacing between text elements */
+  padding: 10px 0;  
+  justify-content: flex-start; /* Keeps text and Contents link together */
+  padding: 8px 0;              /* Gives each row some breathing room */
+  
+}
+
+/* Target the last anchor tag inside the li (the image link) */
+.volume-list li a:last-child {
+  margin-left: auto;   /* Magic trick: pushes this item to the far right */
+  flex-shrink: 0;      /* Prevents the image from getting squeezed */
+}
+
+
+
+
+
+
 
 
 /* Layout configurations for Dropdowns */

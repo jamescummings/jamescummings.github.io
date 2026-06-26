@@ -76,4 +76,9 @@ We have taken the difficult decision to make the work of those who have died ava
 - <a xmlns="http://www.w3.org/1999/xhtml" name="44" id="44"> </a>Volume 44 (2022)   [Contents](vol44.html)   [<img xmlns="http://www.w3.org/1999/xhtml"     src="/assets/covers/vol44vsm.jpg"     width="95px"     height="132px"     border="0"/>](vol44.html) 
 - <a xmlns="http://www.w3.org/1999/xhtml" name="45" id="45"/> Volume Forty-Five (2023)   [Contents](vol45.html)   [<img xmlns="http://www.w3.org/1999/xhtml"     src="/assets/covers/vol45vsm.jpg"     width="95px"     height="132px"     border="0"/>](vol45.html) 
 - <a xmlns="http://www.w3.org/1999/xhtml" name="46" id="46"/> Volume 46 (2024)  
-To Come.  [<img xmlns="http://www.w3.org/1999/xhtml"     src="/assets/covers/vol46vsm.jpg"     width="95px"     height="132px"     border="0"/>](https://boydellandbrewer.com/9781843846499/medieval-english-theatre-46/) 
+To Come.  [<img xmlns="http://www.w3.org/1999/xhtml"     src="/assets/covers/vol46vsm.jpg"     width="95px"     height="132px"     border="0"/>](https://boydellandbrewer.com/9781843846499/medieval-english-theatre-46/)
+{: .volume-list}
+
+
+
+ 
