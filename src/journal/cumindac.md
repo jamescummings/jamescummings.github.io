@@ -77,32 +77,10 @@ Expulsion*     [Find](vol14.html#Corbett) |14|102-119|
 |Crouch, David|Paying to See the Play: The Stationholders on the Route of The York Corpus Christi Play in the Fifteenth Century     [Find](vol13.html#Crouch) |13|64-11|  
 
 
- [A](cumindac.html#A) 
- [B](cumindac.html#B) 
- [C](cumindac.html#C) 
- [D](cuminddf.html#D) 
- [E](cuminddf.html#E) 
- [F](cuminddf.html#F) 
- [G](cumindgj.html#G) 
- [H](cumindgj.html#H) 
- [I](cumindgj.html#I) 
- [J](cumindgj.html#J) 
- [K](cumindko.html#K) 
- [L](cumindko.html#L) 
- [M](cumindko.html#M) 
- [N](cumindko.html#N) 
- [O](cumindko.html#O) 
- [P](cumindps.html#P) 
- [Q](cumindps.html#Q) 
- [R](cumindps.html#R) 
- [S](cumindps.html#S) 
- [T](cumindtz.html#T) 
- [U](cumindtz.html#U) 
- [V](cumindtz.html#V) 
- [W](cumindtz.html#W) 
- [X](cumindtz.html#Y) 
- [Y](cumindtz.html#Y) 
- [Z](cumindtz.html#Z) 
- [Reports on Productions](cumprod.html)   
-----
+| [A](cumindac.html#A) | [B](cumindac.html#B) | [C](cumindac.html#C) | [D](cuminddf.html#D) | [E](cuminddf.html#E) | [F](cuminddf.html#F) | [G](cumindgj.html#G) | [H](cumindgj.html#H) | [I](cumindgj.html#I) | [J](cumindgj.html#J) | [K](cumindko.html#K) | [L](cumindko.html#L) | [M](cumindko.html#M) |
+| [N](cumindko.html#N) | [O](cumindko.html#O) | [P](cumindps.html#P) | [Q](cumindps.html#Q) | [R](cumindps.html#R) | [S](cumindps.html#S) | [T](cumindtz.html#T) | [U](cumindtz.html#U) | [V](cumindtz.html#V) | [W](cumindtz.html#W) | [X](cumindtz.html#Y) | [Y](cumindtz.html#Y) | [Z](cumindtz.html#Z) |
+{: .authorIndex-table} 
+
+<span style="display: table; margin: 0 auto;}">**[Reports on Productions](cumprod.html)**</span>
+
 
