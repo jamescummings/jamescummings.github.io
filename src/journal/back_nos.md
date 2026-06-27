@@ -38,14 +38,10 @@ We will then invoice you for the cost of the journal plus current postage and pa
 ----
 
   
-- Cover- Volume- Sterling Orders-  
-
+| Cover | Volume | Sterling Orders |
+|-----|----------|-----|
 | <img xmlns="http://www.w3.org/1999/xhtml"     src="/assets/covers/vol01sm.gif"     style="margins:auto;display:block;width:;"/> | <a xmlns="http://www.w3.org/1999/xhtml" name="01" id="01">Volume One</a>(1979)   [Contents](vol01.html) | O/P — reprinting |<a xmlns="http://www.w3.org/1999/xhtml" name="A" id="A">O/P — reprinting</a>|
-|<img xmlns="http://www.w3.org/1999/xhtml"
-     src="/assets/covers/vol02sm.gif"
-     style="margins:auto;display:block;width:;"/>
-|<a xmlns="http://www.w3.org/1999/xhtml" name="02" id="02">Volume Two</a>(1980)  
- [Contents](vol02.html) O/P — reprinting as Print on Demand | O/P — reprinting |
+|<img xmlns="http://www.w3.org/1999/xhtml"     src="/assets/covers/vol02sm.gif"     style="margins:auto;display:block;width:;"/> | <a xmlns="http://www.w3.org/1999/xhtml" name="02" id="02">Volume Two</a>(1980)   [Contents](vol02.html) O/P — reprinting as Print on Demand | O/P — reprinting |
 
 
 <img xmlns="http://www.w3.org/1999/xhtml"
