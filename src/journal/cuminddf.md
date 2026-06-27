@@ -1,28 +1,18 @@
 ---
+title:  "METh Journal: Author Index DF"
 layout: page
-title:  "Medieval English Theatre: Author Index DF"
+banner_image: "/assets/authindex.jpg"
+banner_alt: "BL MS Royal 14 E V, detail from fol. 391 (Boccaccio and Petrarch). © The British Library."
+permalink: /journal/cuminddf.html
 ---
 
-  
-<img xmlns="http://www.w3.org/1999/xhtml"
-     src="/assets/authindex.jpg"
-     style="margins:auto;display:block;width:890px;"
-     width="890px"
-     height="200px"/>
-<p xmlns:functx="http://www.functx.com"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   class="commentb">BL MS Royal 14 E V, detail from fol. 391 (Boccaccio and Petrarch). © The British Library.</p>
-
-Volumes 1-40: D-F
+## Volumes 1-40: D-F
 
  
-
- 
-
 Click 'Find' after each title to go to the relevant volume.  
 The later volumes include *summaries* and *PDFs* of one or two pages.
  [A](cumindac.html#A) 
- [B](https://www.medievalenglishtheatre.co.uk/cumindacf.html#B) 
+ [B](cumindacf.html#B) 
  [C](cumindac.html#C) 
  [D](cuminddf.html#D) 
  [E](cuminddf.html#E) 
