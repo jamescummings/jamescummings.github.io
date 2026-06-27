@@ -11,33 +11,9 @@ permalink: /journal/cumindac.html
 Click 'Find' after each title to go to the relevant volume.  
 The later volumes include *summaries* and *PDFs* of one or two pages.
 
- [A](cumindac.html#A) 
- [B](cumindac.html#B) 
- [C](cumindac.html#C) 
- [D](cuminddf.html#D) 
- [E](cuminddf.html#E) 
- [F](cuminddf.html#F) 
- [G](cumindgj.html#G) 
- [H](cumindgj.html#H) 
- [I](cumindgj.html#I) 
- [J](cumindgj.html#J) 
- [K](cumindko.html#K) 
- [L](cumindko.html#L) 
- [M](cumindko.html#M) 
- [N](cumindko.html#N) 
- [O](cumindko.html#O) 
- [P](cumindps.html#P) 
- [Q](cumindps.html#Q) 
- [R](cumindps.html#R) 
- [S](cumindps.html#S) 
- [T](cumindtz.html#T) 
- [U](cumindtz.html#U) 
- [V](cumindtz.html#V) 
- [W](cumindtz.html#W) 
- [X](cumindtz.html#Y) 
- [Y](cumindtz.html#Y) 
- [Z](cumindtz.html#Z) 
- [Reports on Productions](cumprod.html)   
+| [A](cumindac.html#A) | [B](cumindac.html#B) | [C](cumindac.html#C) | [D](cuminddf.html#D) | [E](cuminddf.html#E) | [F](cuminddf.html#F) | [G](cumindgj.html#G) | [H](cumindgj.html#H) | [I](cumindgj.html#I) | [J](cumindgj.html#J) | [K](cumindko.html#K) | [L](cumindko.html#L) | [M](cumindko.html#M) |
+| [N](cumindko.html#N) | [O](cumindko.html#O) | [P](cumindps.html#P) | [Q](cumindps.html#Q) | [R](cumindps.html#R) | [S](cumindps.html#S) | [T](cumindtz.html#T) | [U](cumindtz.html#U) | [V](cumindtz.html#V) | [W](cumindtz.html#W) | [X](cumindtz.html#Y) | [Y](cumindtz.html#Y) | [Z](cumindtz.html#Z) |
+| [Reports on Productions](cumprod.html)|||||||||||||
 
 |AUTHOR|TITLE|VOLUME|PAGES|
 |-------|-------|-------|-------|   
