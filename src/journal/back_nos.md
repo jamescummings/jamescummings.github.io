@@ -1,64 +1,29 @@
 ---
+title: "METh Journal: Back Numbers"
 layout: page
-title:  "Medieval English Theatre: Back Numbers"
+banner_image: "/assets/back_nos.jpg"
+banner_alt: "BL Royal 20 C IV detail from fol. 269 (Boccaccio and Petrarch). © The British Library."
 ---
 
+### ISSN 0143 3784  
+{: style="color:gray; font-size: 80%; text-align: center;"}
+
+ 
+
+>## **FREE BACK NUMBERS: UNREPEATABLE OFFER** 
+>We are in the process of rationalising our stocks of back numbers of *Medieval English Theatre* . Copies of most volumes are available in various quantities between Vol. 8 (1986) and Vol. 36 (2014), after which Boydell and Brewer took over publication. You can check out the contents [ **here** ](volindex.html) .  
+>If you would like any copies completely **FREE** , please ask Dr Clare Egan at c.egan2@lancaster.ac.uk before 10th July 2025. We have to ask you to pay for the postage, which will be calculated when you send in your order. After that date any left-over copies will be recycled.  
+>  
+> For further information, see [this printable pdf.](back_nos_offer.pdf)   
+> Download [a list of what is available.](back_nos_stock.pdf)  
   
-<p xmlns:functx="http://www.functx.com"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   class="commentb">BL Royal 20 C IV detail from fol. 269 (Boccaccio and Petrarch). © The British Library.</p>
-<img xmlns="http://www.w3.org/1999/xhtml"
-     src="/assets/back_nos.jpg"
-     width="890px"
-     height="200px"/>
+   
+>**PDFs of most articles** can now be accessed for **Volumes 1-3 and 15-36** : go to [ **Volume Index** ](volindex.html) for further information. Please note that you can **no longer order via PayPal** : disregard anything that may suggest the opposite.
 
-Back Numbers: Volumes
-
-ISSN 0143 3784  
-> 
+| [Vols 1-6 (O/P)](#A) | [Vols 7-12](#07) | [Vols 13-18](#13) | [Vols 19-24](#19) | [Vols 25-30](#25) | [Vols 31-36](#31) |
 
  
-
- **FREE BACK NUMBERS:
-UNREPEATABLE OFFER** 
-
-We are in the process of rationalising our stocks of back numbers of *Medieval English
-Theatre* . Copies of most volumes are available in various quantities between Vol. 8 (1986) and Vol. 36 (2014), after which Boydell and Brewer took over publication. You can check out the contents [ **here** ](volindex.html) .  
-If you would like any copies completely **FREE** , please ask Dr Clare Egan at c.egan2@lancaster.ac.uk before 10th July 2025. We have to ask you to pay for the postage, which will be calculated when you send in your order. After that date any left-over copies will be recycled.  
-For further information, see [this printable pdf.](/assets/back_nos_offer.pdf)   
-Download [a list of what is available.](/assets/back_nos_stock.pdf) 
-
- 
-
- 
-
-> 
-
- 
-
- **PDFs of most articles** can now be accessed for **Volumes 1-3 and 15-36** : go to [ **Volume Index** ](volindex.html) for further information. Please note that you can **no longer order via PayPal** : disregard anything that may suggest the opposite.
-
- 
-
- 
-
- 
-
- [Vols 1-6 (O/P)](back_nos.html#A) 
-
- [Vols 7-12](back_nos.html#07) 
-
- [Vols 13-18](back_nos.html#13) 
-
- [Vols 19-24](back_nos.html#19) 
-
- [Vols 25-30](back_nos.html#25) 
-
- [Vols 31-36](back_nos.html#31) 
-
- 
-
-<a xmlns="http://www.w3.org/1999/xhtml" name="#BNos" id="#BNos">Volumes 1 (1979) to 36 (2014)</a>may be ordered from the Society where still in print.  
+<a xmlns="http://www.w3.org/1999/xhtml" name="#BNos" id="#BNos"/>Volumes 1 (1979) to 36 (2014) may be ordered from the Society where still in print.  
 From Volume 37 (2015) onwards they should be ordered from [Boydell &amp; Brewer](http://www.boydellandbrewer.com/store/viewItem.asp?idProduct=14954) .
 
 Volumes 1-7, and 10 are currently out of print, but we are preparing reprints. These will be advertised when they are ready, probably as Print on Demand.
@@ -66,31 +31,22 @@ Volumes 1-7, and 10 are currently out of print, but we are preparing reprints. T
 
  
 
-Download the [Back Numbers Order Form](/assets/back_nos_stock.pdf) (also accessible from the list below via the button [<img xmlns="http://www.w3.org/1999/xhtml"
-     src="/assets/covers/buttonxxx.jpg"
-     align="top"
-     border="0"/>](/assets/back_nos_stock.pdf) ). It will give you details of all available back numbers. Fill it in, and send it as an attachment by e-mail to: c.egan2@lancaster.ac.uk  
-or, exceptionally, by post to:   Dr Clare Egan, Medieval English Theatre, c/o Department of English and Creative Writing, Lancaster University, LANCASTER LA1 4YD, UK.  
+Download the [Back Numbers Order Form](back_nos_stock.pdf) (also accessible from the list below via the button [<img xmlns="http://www.w3.org/1999/xhtml"     src="/assets/covers/buttonxxx.jpg"     align="top"     border="0"/>](back_nos_stock.pdf) ). It will give you details of all available back numbers. Fill it in, and send it as an attachment by e-mail to: c.egan2@lancaster.ac.uk or, exceptionally, by post to:   Dr Clare Egan, Medieval English Theatre, c/o Department of English and Creative Writing, Lancaster University, LANCASTER LA1 4YD, UK.  
 We will then invoice you for the cost of the journal plus current postage and packing.
+
 ----
 
   
-- Cover- Volume- Sterling Orders-  <img xmlns="http://www.w3.org/1999/xhtml"
-     src="/assets/covers/vol01sm.gif"
-     style="margins:auto;display:block;width:;"/>
-<a xmlns="http://www.w3.org/1999/xhtml" name="01" id="01">Volume One</a>(1979)  
- [Contents](vol01.html)   
-O/P — reprinting
+- Cover- Volume- Sterling Orders-  
 
-<a xmlns="http://www.w3.org/1999/xhtml" name="A" id="A">O/P — reprinting</a>
-<img xmlns="http://www.w3.org/1999/xhtml"
+| <img xmlns="http://www.w3.org/1999/xhtml"     src="/assets/covers/vol01sm.gif"     style="margins:auto;display:block;width:;"/> | <a xmlns="http://www.w3.org/1999/xhtml" name="01" id="01">Volume One</a>(1979)   [Contents](vol01.html) | O/P — reprinting |<a xmlns="http://www.w3.org/1999/xhtml" name="A" id="A">O/P — reprinting</a>|
+|<img xmlns="http://www.w3.org/1999/xhtml"
      src="/assets/covers/vol02sm.gif"
      style="margins:auto;display:block;width:;"/>
-<a xmlns="http://www.w3.org/1999/xhtml" name="02" id="02">Volume Two</a>(1980)  
- [Contents](vol02.html)   
-O/P — reprinting as Print on Demand
+|<a xmlns="http://www.w3.org/1999/xhtml" name="02" id="02">Volume Two</a>(1980)  
+ [Contents](vol02.html) O/P — reprinting as Print on Demand | O/P — reprinting |
 
-O/P — reprinting
+
 <img xmlns="http://www.w3.org/1999/xhtml"
      src="/assets/covers/vol03sm.gif"
      style="margins:auto;display:block;width:;"/>
