@@ -73,7 +73,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Corrigan, Vincent &amp; Vicki Hamblin|Music and Performance in Three French Hagiographic Mystery Plays [Find](vol35.html#Corrigan) |35|95-139|  
 |Cowling, Jane|'The Wood Eaves' [Find](vol17.html#Cowling) |17|20-28|  
 |Crouch, David|Paying to See the Play: The Stationholders on the Route of The York Corpus Christi Play in the Fifteenth Century [Find](vol13.html#Crouch) |13|64-11|  
-
+{: .author-table} 
 
 | [A](cumindac.html#A) | [B](cumindac.html#B) | [C](cumindac.html#C) | [D](cuminddf.html#D) | [E](cuminddf.html#E) | [F](cuminddf.html#F) | [G](cumindgj.html#G) | [H](cumindgj.html#H) | [I](cumindgj.html#I) | [J](cumindgj.html#J) | [K](cumindko.html#K) | [L](cumindko.html#L) | [M](cumindko.html#M) |
 | [N](cumindko.html#N) | [O](cumindko.html#O) | [P](cumindps.html#P) | [Q](cumindps.html#Q) | [R](cumindps.html#R) | [S](cumindps.html#S) | [T](cumindtz.html#T) | [U](cumindtz.html#U) | [V](cumindtz.html#V) | [W](cumindtz.html#W) | [X](cumindtz.html#Y) | [Y](cumindtz.html#Y) | [Z](cumindtz.html#Z) |
