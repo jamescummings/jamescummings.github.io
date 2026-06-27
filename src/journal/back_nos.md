@@ -3,6 +3,7 @@ title: "METh Journal: Back Numbers"
 layout: page
 banner_image: "/assets/back_nos.jpg"
 banner_alt: "BL Royal 20 C IV detail from fol. 269 (Boccaccio and Petrarch). © The British Library."
+permalink: /journal/back_nos.html
 ---
 
 ### ISSN 0143 3784  
