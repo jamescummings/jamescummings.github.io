@@ -76,9 +76,9 @@ We have taken the difficult decision to make the work of those who have died ava
 - <a name="41" id="41"/> Volume Forty-One (2019)   [Contents](vol41.html)   [<img      src="/assets/covers/vol41vsm.jpg"     width="94px"     height="131px"     border="0"/>](vol41.html) 
 - <a name="42" id="42"/> Volume Forty-Two (2020)   [Contents](vol42.html)   [<img     src="/assets/covers/vol42vsm.jpg"     width="94"     height="131"     border="0"/>](vol42.html) 
 - <a name="43" id="43"/> Volume Forty-Three (2021)   [Contents](vol43.html)   [<img     src="/assets/covers/vol43vsm.jpg"     width="95px"     height="132px"     border="0"/>](vol43.html) 
-- <a name="44" id="44"> </a>Volume 44 (2022)   [Contents](vol44.html)   [<img     src="/assets/covers/vol44vsm.jpg"     width="95px"     height="132px"     border="0"/>](vol44.html) 
+- <a name="44" id="44"> </a>Volume 44 (2022)   [Contents](vol44.html)   [<img     src="/assets/covers/vol44vsm.jpg"     width="95px"     height="132px"     border="0"/>](vol44.html) 
 - <a name="45" id="45"/> Volume Forty-Five (2023)   [Contents](vol45.html)   [<img     src="/assets/covers/vol45vsm.jpg"     width="95px"     height="132px"     border="0"/>](vol45.html) 
-- <a name="46" id="46"/> Volume 46 (2024)  
+- <a name="46" id="46"/> Volume 46 (2024)  
 [To Come.](volindex.html)  [<img     src="/assets/covers/vol46vsm.jpg"     width="95px"     height="132px"     border="0"/>](vol46.html)
 {: .volume-list}
 

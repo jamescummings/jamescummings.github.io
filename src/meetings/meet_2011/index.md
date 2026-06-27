@@ -19,11 +19,11 @@ It will be
 - for map, go to [http://www.ed.ac.uk/maps](http://www.ed.ac.uk/maps) and run down the Buildings A-Z list to �Pollock Halls of Residence�;  
 - the fee will be �40 including lunch.
 
-Sarah�s contact details are: *e-mail*   **sarah.carpenter@ed.ac.uk** 
+Sarah�s contact details are: *e-mail*   **sarah.carpenter@ed.ac.uk** 
 
 ----
 
-Go to     [ **PROGRAMME** ](programme_2011/)    page
+Go to     [ **PROGRAMME** ](programme_2011/)    page
 
 ----
 
@@ -31,10 +31,10 @@ Go to     [ **PROGRAMME** ](programme_2011/)    page
 
 Please register either by
 
-- on-line registration: to register and pay for the meeting and accommodation online, please visit the conference webpage [http://www.englit.ed.ac.uk/research/conference/MedEngTheatre/MedEngTheatre.htm](http://www.englit.ed.ac.uk/research/conference/MedEngTheatre/MedEngTheatre.htm) ;    or  
+- on-line registration: to register and pay for the meeting and accommodation online, please visit the conference webpage [http://www.englit.ed.ac.uk/research/conference/MedEngTheatre/MedEngTheatre.htm](http://www.englit.ed.ac.uk/research/conference/MedEngTheatre/MedEngTheatre.htm) ;    or  
 
 - by mail: download and fill in the [Registration form](reg_form_2011.doc), and send it with your cheque made out to �The University of Edinburgh� to **Dr Sarah Carpenter, English Literature, University of Edinburgh, David Hume Tower, Edinburgh EH8 9JX** as soon as possible, and by **12 March** at the latest. *Do not try to fill in the form online.*   
-For further information please contact Sarah Carpenter   **sarah.carpenter@ed.ac.uk**, phone 0131 650 3608, or Sue Niebrzydowski at **s.niebrzydowski@bangor.ac.uk**, phone 01248 382111 (work).</a>
+For further information please contact Sarah Carpenter   **sarah.carpenter@ed.ac.uk**, phone 0131 650 3608, or Sue Niebrzydowski at **s.niebrzydowski@bangor.ac.uk**, phone 01248 382111 (work).</a>
 
 The first two full time registered postgraduate students to apply will have the registration fee reimbursed by Medieval English Theatre.
 

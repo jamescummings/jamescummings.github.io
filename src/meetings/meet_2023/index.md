@@ -25,36 +25,36 @@ banner_alt: "Images from The Hague: Museum Meermanno Westreenianum MS 10 B 23, G
 
  [ **Printable version here.** ](prog_2023.pdf) 
 
- 
-- 9.00 onwards **Coffee** in Alan Walters building foyer   
-- 9.45-10.00 **Welcome** (Liv Robinson, University of Birmingham)   
+ 
+- 9.00 onwards **Coffee** in Alan Walters building foyer   
+- 9.45-10.00 **Welcome** (Liv Robinson, University of Birmingham)   
 - 10.00-11.30 **Panel 1: Shaping the body as signifier**   
  *Clare Egan* (University of Lancaster):  
-          ‘Bodies and/as Texts in Libellous Performances’  
+          ‘Bodies and/as Texts in Libellous Performances’  
  *Mark Chambers* (University of Durham):  
-          ‘The Disabled Body as Performance: Disabled Performers in the *Records of Early English Drama*’  
+          ‘The Disabled Body as Performance: Disabled Performers in the *Records of Early English Drama*’  
  *Sadegh Attari* (University of Birmingham):  
-          ‘Disjointed Unison: Bodily Disintegration and Subversion in the *Croxton Play of the Sacrament*’  
+          ‘Disjointed Unison: Bodily Disintegration and Subversion in the *Croxton Play of the Sacrament*’  
 - 11.30-12.00 **Coffee/Tea Break**  
 - 12.00-13.00 **Panel 2: Embodiment and Spectatorship**   
  *Gillian Redfern* (University of Manchester):  
-          ‘Embodying Spritual Flux and Stasis in *Mactatio Abel*’  
+          ‘Embodying Spritual Flux and Stasis in *Mactatio Abel*’  
  *Greg Walker* (University of Edinburgh):  
-          ‘Embodiment and Kinesis in *The World and the Child*’
+          ‘Embodiment and Kinesis in *The World and the Child*’
 - 13.00-14.15 **Lunch** : sandwiches and drinks, served in the foyer of Alan Walters  
 - 14.15-15.45 **Panel 3: Creating/Performing the Body**  
  *Sarah Carpenter* , *Elisabeth Dutton* , *Pamela M. King*, *Meg Twycross*, and *Diana Wyatt*:  
-          Staged Reading: ‘ *A Disputation Betwix the Body and Worms*’  
+          Staged Reading: ‘ *A Disputation Betwix the Body and Worms*’  
  *Ivan Cutting* (Artistic Director, Eastern Angles, Ipswich):  
-          ‘*Medieval Miracles* in 2023’  
+          ‘*Medieval Miracles* in 2023’  
  *Jeffery Stoyanoff* (Penn State, Altoona):  
-          ‘Patriarchal Bodies in *Dux Moraud*’ \[paper to be delivered online\]
+          ‘Patriarchal Bodies in *Dux Moraud*’ \[paper to be delivered online\]
 - 16.00-17.00 *The Pilgrimage of the Life of Man* :  
-          Film screening of the Medieval Convent Drama Project’s final production, with coffee and cake.  
-          Introduced by *Elisabeth Dutton* , Université de Fribourg.
+          Film screening of the Medieval Convent Drama Project’s final production, with coffee and cake.  
+          Introduced by *Elisabeth Dutton* , Université de Fribourg.
 - 17.30-18.30 **Society AGM** for Members:  
-          a glass of wine will be served at 5.15pm in the foyer of Alan Walters, ready to start at 5.30pm    
- 
+          a glass of wine will be served at 5.15pm in the foyer of Alan Walters, ready to start at 5.30pm    
+ 
 ----
 
 ### <a xmlns="http://www.w3.org/1999/xhtml"  name="registration" id="registration"/> **REGISTRATION** 
@@ -93,7 +93,7 @@ The Alan Walters building is in the red part of Campus on this map, in the middl
 
 There are many hotels in and around the city centre of Birmingham. If you are considering taking the train, anything around New Street would be convenient. There are also frequent trains from Five Ways station, which has several big hotels within walking distance. Finally, there is a University-owned hotel on Campus called The Edgbaston Park Hotel (website: [https://www.edgbastonparkhotel.com](https://www.edgbastonparkhotel.com/) ; very top right of the campus map in green). This is a very short walk directly to the conference venue, so it is the most convenient option. However, it’s not the cheapest. I should also say that Birmingham UCU members are currently (I believe) on a boycott of the EPH because it does not pay all of its staff the living wage. I mention this because some attendees who are fellow UCU members might feel that it is important to take that into account; others, of course, may not wish to, or may have circumstances to consider which override that. Please be reassured that everyone’s accommodation choices will be treated with respect and consideration.
 
- 
+ 
  [**Printable version of this information** ](2023_details.pdf).
 
 

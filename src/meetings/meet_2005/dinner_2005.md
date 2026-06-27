@@ -25,19 +25,19 @@ We are asked to pre-book because of the size of the party and the need to ensure
 Just give me your name and choices as follows: McGavin C2.
 
  **Main courses** 
-- A       Poached chicken breast with a tarragon cream sauce
-- B       Salmon and Ratatouille Wellington with a spicey tomato and basil sauce
-- C       Honey roasted Belly of Pork with a wholegrain mustard sauce
-- D       Almond and Pistachio Nut Loaf with a beetroot emulsion  
-         (The above dishes all served with potatoes of the day, and platters of mixed vegetables for the tables)
-- E       Cherry Tomato, red onion, and capsicums pasta with a herb pesto (olive oil, not cream based)
+- A       Poached chicken breast with a tarragon cream sauce
+- B       Salmon and Ratatouille Wellington with a spicey tomato and basil sauce
+- C       Honey roasted Belly of Pork with a wholegrain mustard sauce
+- D       Almond and Pistachio Nut Loaf with a beetroot emulsion  
+         (The above dishes all served with potatoes of the day, and platters of mixed vegetables for the tables)
+- E       Cherry Tomato, red onion, and capsicums pasta with a herb pesto (olive oil, not cream based)
 
  **Puddings** 
-- 1       Vanilla Cr�me Brulee
-- 2       Orange and Raisin Bread and Butter Pudding with Cr�me Anglaise
-- 3       Duo of Chocolate Mousse
-- 4       Boozy Fruit Cocktail with Citrus Mascarpone
-- 5       Mixed Cheese Platter (supplement of �4 per platter per person)
+- 1       Vanilla Cr�me Brulee
+- 2       Orange and Raisin Bread and Butter Pudding with Cr�me Anglaise
+- 3       Duo of Chocolate Mousse
+- 4       Boozy Fruit Cocktail with Citrus Mascarpone
+- 5       Mixed Cheese Platter (supplement of �4 per platter per person)
 
 [Meeting 2005](/meetings/meet_2005/)
 

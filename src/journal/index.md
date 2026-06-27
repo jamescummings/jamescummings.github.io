@@ -21,14 +21,14 @@ Members of the Society are eligible for a [reduced-price subscription](/society)
 An [Index](/journal/volindex.html) of all volumes from 1 (1979) to date is available. There is also a cumulative [Author Index](/journal/cumindac.html). Go to drop-down *Journal* menu.  
 
 
- 
+ 
 
 >In all journals, more and more footnote references are made to URLs. These can be tedious to copy out onto the computer screen. From Volume 39 (2017) we have added [an online resource](/jounal/URLS/) which enables you to go directly to these URLs. This is particularly informative when the references are to videos or to larger coloured images. Coloured copies of author’s photos are also mounted on this website, and the links lead straight to them.  
 >They can be accessed from the [global list](/journal/URLS/) and from the contents lists of individual volumes via the [Volume Index](/journal/volindex.html). 
 
- 
+ 
 
- 
+ 
 
  [Back numbers](/journal/back_nos.html) of many issues from Volumes 1 (1979) 36 (2014) are still available and can be purchased from the Society. An occasional series of [texts and monographs](/journal/sales_texts.html) is also available.
 
@@ -37,9 +37,9 @@ An [Index](/journal/volindex.html) of all volumes from 1 (1979) to date is avail
  **Editors**:
 
 
-- Professor Meg Twycross, Lancaster University   (m.twycross@lancaster.ac.uk)
-- Dr Sarah Carpenter, University of Edinburgh   (sarah.carpenter@ed.ac.uk)
+- Professor Meg Twycross, Lancaster University   (m.twycross@lancaster.ac.uk)
+- Dr Sarah Carpenter, University of Edinburgh   (sarah.carpenter@ed.ac.uk)
 - Professor Elisabeth Dutton, Université de Fribourg (elisabeth.dutton@unifr.ch)
-- Professor Gordon Kipling, UCLA   (kipling@humnet.ucla.edu)  
+- Professor Gordon Kipling, UCLA   (kipling@humnet.ucla.edu)  
 
 

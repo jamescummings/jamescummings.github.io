@@ -43,7 +43,7 @@ The annual Medieval English Theatre **dinner** will take place at Zizzi, 8 Cress
 ### <a xmlns="http://www.w3.org/1999/xhtml" name="getting" id="getting"/> **GETTING THERE** 
 
 Printable instructions and information on parking [ **here** ](Getting_There.docx).
- 
+ 
 ----
 
 ### <a xmlns="http://www.w3.org/1999/xhtml"  name="registration" id="registration"/> **REGISTRATION** 

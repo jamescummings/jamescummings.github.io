@@ -20,7 +20,7 @@ banner_alt: "METh Title Banner"
 
 In the Silver Jubilee year of *Medieval English Theatre* the meeting returns to Lancaster, where it all began in 1978.
 
-- **Registration forms** have been sent out and should be returned directly to Olga Horner at Lancaster as soon as possible. To speed matters up you may copy and fill in [the attached form](form.doc) and e-mail the copy to Olga Horner at  o.horner@lancaster.ac.uk but the booking will not be firm until we have received your cheque with the deposit.
+- **Registration forms** have been sent out and should be returned directly to Olga Horner at Lancaster as soon as possible. To speed matters up you may copy and fill in [the attached form](form.doc) and e-mail the copy to Olga Horner at  o.horner@lancaster.ac.uk but the booking will not be firm until we have received your cheque with the deposit.
 
 - Details of **accommodation** at the University and recommended accommodation in the vicinity of the University will be provided on request.  
 

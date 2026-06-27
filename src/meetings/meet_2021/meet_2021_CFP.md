@@ -31,13 +31,13 @@ sessions** , especially in the current context. Please submit your proposals by 
 
 <img xmlns="http://www.w3.org/1999/xhtml" src="/assets/banner_sm.jpg"/>
 
- 
+ 
 
 ----
 
 
 
- 
+ 
 
 ----
 

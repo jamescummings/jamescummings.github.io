@@ -14,7 +14,7 @@ banner_alt: "METh Title Banner"
 - hosted by Elisabeth Dutton at Worcester College, Oxford;  
 - maps on the College website, [http://www.ox.ac.uk/applications/dynamic/map_google.rm?g=1&amp;id=49](http://www.ox.ac.uk/applications/dynamic/map_google.rm?g=1&amp;id=491) ;  
 - the cost will be �40 including lunch;
-- Elisabeth�s contact details are: *e-mail*   **elisabeth.dutton@worc.ox.ac.uk** 
+- Elisabeth�s contact details are: *e-mail*   **elisabeth.dutton@worc.ox.ac.uk** 
 
 ----
 
@@ -29,7 +29,7 @@ If you would prefer to find a hotel room or a B&amp;B, [http://www.laterooms.com
 
 ----
 
-Go to     [ **PROGRAMME** ](programme_2010/)     page
+Go to     [ **PROGRAMME** ](programme_2010/)     page
 
 ----
 

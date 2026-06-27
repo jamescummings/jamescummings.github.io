@@ -13,15 +13,15 @@ Medieval English Theatre is a scholarly society whose purpose is:
   b. to take responsibility for the publication of a learned journal entitled *Medieval English Theatre* , including its funding, editorial content, publication and dissemination  
   c. to organise an annual conference open to all with an interest in the field.
 
-1.  The Management Committee of the Medieval English Theatre society will comprise:  
-  a. the Executive and General Editors of the *Medieval English
+1.  The Management Committee of the Medieval English Theatre society will comprise:  
+  a. the Executive and General Editors of the *Medieval English
 Theatre* journal (currently 3 in number)  
-  b. the Treasurer  
-  c. the Secretary  
-  d. the Conference Secretary  
-  e. the hosts of the meeting for the previous and the following year (co-opted annually)  
-  f.  a representative of the Social Media group  
-  g. two further representatives of the membership
+  b. the Treasurer  
+  c. the Secretary  
+  d. the Conference Secretary  
+  e. the hosts of the meeting for the previous and the following year (co-opted annually)  
+  f.  a representative of the Social Media group  
+  g. two further representatives of the membership
 
 2. The Editorial Board of the journal *Medieval English Theatre* will act as an Advisory Board to the Society, and will (if desired) receive copies of the Minutes and of the Accounts.
 
@@ -34,7 +34,7 @@ Theatre* journal (currently 3 in number)
 6. Membership of the Medieval English Theatre society is restricted to individuals. Members will pay a subscription, the amount to be decided annually for the following year by the Management Committee. There will be two levels of subscription for membership of the Society, an ordinary subscription, and a reduced rate for postgraduates.
 
 
-   Members will receive:  
+   Members will receive:  
 - advance information about the annual meeting and any other activities  
 - a preferential rate for conference attendance  
 - voting rights at the Society Business Meeting  
@@ -49,14 +49,14 @@ Theatre* journal (currently 3 in number)
 
 10. The METh Community Bank Account is 00628468 at Barclays Bank, 1 Alexandra Square, Bailrigg, LANCASTER LA1 4XX, bank sort code 20-47-61.
 
-Signed: ________________________           Signed: _________________________
+Signed: ________________________           Signed: _________________________
 
-                Executive Editor                                     Chairperson
+                Executive Editor                                     Chairperson
 
-Date: ___________________________           Date: _________________________
+Date: ___________________________           Date: _________________________
 
  *Codicil* 1.10.2015:
 
-a)  a contract has been entered into with Boydell and Brewer with regard to the *METh* journal. The journal will continue to be edited and prepared by the Editors and the Editorial Board of the Society, but it will be published and distributed by Boydell and Brewer.  
+a)  a contract has been entered into with Boydell and Brewer with regard to the *METh* journal. The journal will continue to be edited and prepared by the Editors and the Editorial Board of the Society, but it will be published and distributed by Boydell and Brewer.  
 
 

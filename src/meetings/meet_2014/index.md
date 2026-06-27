@@ -12,7 +12,7 @@ banner_alt: "METh Title Banner"
 
 ----
 
-Go to     [ **PROGRAMME** ](programme_2014/)     page
+Go to     [ **PROGRAMME** ](programme_2014/)     page
 
 ----
 

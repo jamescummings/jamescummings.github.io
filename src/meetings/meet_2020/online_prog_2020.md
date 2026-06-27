@@ -10,7 +10,7 @@ banner_alt: "Ibn Butlân *Tacuinum sanitatis* https://gallica.bnf.fr/ark:/12148/
 > **ONLINE**  
 > Hosted by [Daisy Black](https://www.wlv.ac.uk/about-us/our-staff/daisy-black/) at the University of Wolverhampton.  
 
- 
+ 
 ### **Programme** 
 
  [Printable version (Word doc)](online_prog_2020.docx) 
@@ -24,19 +24,19 @@ banner_alt: "Ibn Butlân *Tacuinum sanitatis* https://gallica.bnf.fr/ark:/12148/
  *Elisabeth Dutton* (Université de Fribourg and *Liv Robinson* (Universities of Birmingham and Fribourg): ‘Last Supper, First Communion.’  
  *Philip Butterworth* (University of Leeds): ‘If your Bob doesn’t give our Bob that bob that your Bob owes our Bob, then our Bob’ll give your Bob a bob on’t nose: The Game of *Abobbed* .’
 - 11.10-11.30 **Coffee/Tea break with optional discussion group** 
-- 11.30-12.30 **Session 2: Good and Bad Hospitality**      
+- 11.30-12.30 **Session 2: Good and Bad Hospitality**      
  *Alexandra Claridge* (University of Liverpool): ‘All Consuming Ideas in the Late Medieval Subtlety.’  
  *Nadia van Pelt* (Tecyhnische Universiteit Delft): ‘Spanish Musicians at sea with Katherine of Aragon: New Evidence.’
 - 12.30-13.15 **Lunch**  
 - 13.15-14.15 **Session 3: Transformative Feasts**  
  *Elsa Strietman* (Murray Edwards College, University of Cambridge): ‘The Transformation of History: nothing new under the sun. Rhetoricians and history.’  
  *Jodi-Anne George* (University of Dundee): ‘Breaking (and Making) Bread in *Jesus, Queen of Heaven* and the Chester *Last Supper* Pageant.’
-- 14.15-14.45 **Tea break with optional discussion groups**    
-- 14.45-15.45 **Session 4: Moralising Consumption**    
+- 14.15-14.45 **Tea break with optional discussion groups**    
+- 14.45-15.45 **Session 4: Moralising Consumption**    
  *Cathy Hume* (University of Bristol): ‘*The Life of Job* and virtuous feasting.’  
  *Ernst Gerhardt* (Laurentian University): ‘Staging Consumption in Lewis Wager’s *The Life and Repentance of Mary Magdalene* and *Jacob and Esau*’
 - 15.45-16.00 **Comfort break** 
-- 16.00-17.30 **Breakout discussion groups and feedback**    
-- 18.00-19.00 **Business meeting**      
+- 16.00-17.30 **Breakout discussion groups and feedback**    
+- 18.00-19.00 **Business meeting**      
 
 

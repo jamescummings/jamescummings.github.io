@@ -10,7 +10,7 @@ banner_alt: "METh Title Banner"
 > University of Leeds, Bretton Hall
 
 
-### **Venue**     
+### **Venue**     
 
 This year the Medieval English Theatre meeting on **The Classical** will be
 

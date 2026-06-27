@@ -13,7 +13,7 @@ banner_alt: "METh Title Banner"
 
 -  [map of the College](/magdalen_map.pdf) ;  
 - the cost will be �35 including lunch;
-- James�s contact details are: *e-mail*   **james.mcbain@magd.ox.ac.uk** 
+- James�s contact details are: *e-mail*   **james.mcbain@magd.ox.ac.uk** 
 
 ----
 
@@ -30,10 +30,10 @@ If you would prefer to find a hotel room or a B&amp;B, [http://www.laterooms.com
 
 - On the **Friday evening** , we are hoping to arrange the customary dinner. Please indicate *on the registration form* if you would like to join the party. Further information will follow.  
 
--  **Parking** : A limited number of spaces will be available in the English Faculty car park, close to Magdalen. These are by prior arrangement only - please email   **james.mcbain@magd.ox.ac.uk** .
+-  **Parking** : A limited number of spaces will be available in the English Faculty car park, close to Magdalen. These are by prior arrangement only - please email   **james.mcbain@magd.ox.ac.uk** .
 ----
 
-Go to     [ **PROGRAMME** ](programme_2012/)     page
+Go to     [ **PROGRAMME** ](programme_2012/)     page
 
 ----
 

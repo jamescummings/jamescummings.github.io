@@ -11,7 +11,7 @@ banner_alt: "METh Title Banner"
 > University of Sheffield
 > **Magnyfycence** 
 
-### **Venue**     
+### **Venue**     
 
 This year the Medieval English Theatre meeting on Skelton�s *Magnyfycence* will be
 

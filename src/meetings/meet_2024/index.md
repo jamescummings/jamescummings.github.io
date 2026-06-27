@@ -19,7 +19,7 @@ banner_alt: "Oxford: Bodleian Library, bas-de-page from MS Bodley 264, fol.84v [
 - [Venue](https://conferences.ncl.ac.uk/meth2024/about/venueinformation/) &amp; [Travel](https://conferences.ncl.ac.uk/meth2024/about/travelinformation/) 
 - [Accommodation](https://conferences.ncl.ac.uk/meth2024/about/accommodation/) 
 
- 
+ 
 We urge you to read the [Terms and Conditions](https://conferences.ncl.ac.uk/meth2024/about/termsandconditions/) and the [Code of Conduct](https://conferences.ncl.ac.uk/meth2024/about/codeofconduct/) for the Medieval English Theatre Meeting.
 
 Newcastle is an amazing city, and these links will help you to explore it further: [About Newcastle and Newcastle University](https://conferences.ncl.ac.uk/meth2024/about/aboutnewcastleandnewcastleuniversity/) , and [Things to Do and See.](https://conferences.ncl.ac.uk/meth2024/about/thingstodoandsee/)  
@@ -30,27 +30,27 @@ Newcastle is an amazing city, and these links will help you to explore it furthe
 
 For **Abstracts** of the following papers, please see the conference website [Programme with Abstracts](https://conferences.ncl.ac.uk/meth2024/programme/) page.
 
-- 10.00 onwards **Registration, with refreshments** in The Boiler House, Newcastle University   
-- 10.45-11.00 **Welcome and Opening of METh 2024**    
+- 10.00 onwards **Registration, with refreshments** in The Boiler House, Newcastle University   
+- 10.45-11.00 **Welcome and Opening of METh 2024**    
 - 11.00-12.30 **Session 1: Illuminating the Margins**   
  *Charlotte Steenbrugge* (University of Sheffield):  
-          ‘Dramatic Margins’  
+          ‘Dramatic Margins’  
  *Philip Butterworth* (University of Leeds):  
-          ‘Christ Riding the Stang’  
+          ‘Christ Riding the Stang’  
  *Sarah Grandage* (University of Nottingham) and Dana Key (University of Nottingham):  
-          ‘Narrating from the Margins’
+          ‘Narrating from the Margins’
 - 12.30-13.30 **Lunch** (at venue).  
 - 13.30-15.00 **Session 2: Drama on the Margins**  
  *Nadia van Pelt* (Delft University of Technology) and *Olivia Robinson* (University of Birmingham):  
-          ‘Reconsidering the Ludic Figures in Kuperstichkabinett MS 78 D5’  
+          ‘Reconsidering the Ludic Figures in Kuperstichkabinett MS 78 D5’  
  *Margaret Pappano* (Queen’s University, Canada):  
-          ‘The Drama of the Scaffold: Punishment and Performance in Medieval France’  
+          ‘The Drama of the Scaffold: Punishment and Performance in Medieval France’  
  *David Parkinson* (University of Saskatchewan) and *Pamela King* (University of Glasgow):  
-          ‘Henry Adamson’s *The Muses Threnodie* as Para-drama’
-- 15.00-15.30 Break with refreshments   
+          ‘Henry Adamson’s *The Muses Threnodie* as Para-drama’
+- 15.00-15.30 Break with refreshments   
 - 15.30-17.00 **Session 3: Pre-Dramatic Theatre Panel**   
  *Eleanor Rycroft* (University of Bristol), *Clare Wright* (University of Kent), *Greg Walker* (University of Edinburgh):  
-          ‘Pre-Dramatic Theatre’
+          ‘Pre-Dramatic Theatre’
 - 17.00-17.30 Closing Break with Refreshments
 - 17.30-18.30 **Medieval English Theatre Society AGM** (all welcome):
 - 18.30 End of meeting (Possible additional evening meal)  
@@ -68,7 +68,7 @@ The **conference fee** is **£30** for METh Society members, **£40** for non-me
 The cost of registration includes all refreshments and lunch on Saturday 6 April 2024. You may submit your dietary preferences during registration. You may also express your interest in the Friday evening meal (Indian food) and the possibility for a Saturday evening meal during registration.  
 
 ----
- 
+ 
 ### <a xmlns="http://www.w3.org/1999/xhtml" name="dinner" id="dinner"/>**CONFERENCE DINNER**
 
 

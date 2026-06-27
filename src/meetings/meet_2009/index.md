@@ -10,18 +10,18 @@ banner_alt: "METh Title Banner"
 > Royal Holloway, University of London
 >  **London** 
 
-### **Venue**     
+### **Venue**     
 
 This year the Medieval English Theatre meeting on **London** will be:
 
 - hosted by Ruth Kennedy and Katie Normington at Royal Holloway;  
 - held in the College�s School of Management, at Royal Holloway, Egham Hill, Egham, Surrey TW20 OEX 01784;  
 - maps at [http://www.rhul.ac.uk/shared/maps/](http://www.rhul.ac.uk/shared/maps/) . The management building 12 on the campus map and the Hub at 41;  
-- Ruth and Katie�s contact details: *e-mail*   **R.Kennedy@rhul.ac.uk; K.Normington@rhul.ac.uk** .  
+- Ruth and Katie�s contact details: *e-mail*   **R.Kennedy@rhul.ac.uk; K.Normington@rhul.ac.uk** .  
 
 ----
 
-Go to     [ **PROGRAMME** ](programme_2009/)    page
+Go to     [ **PROGRAMME** ](programme_2009/)    page
 
 ----
 
@@ -57,7 +57,7 @@ Single rooms from **�55** for bed and breakfast per person.
 
     - **Hydeaway House**  [http://www.hydeawayhouse.com](http://www.hydeawayhouse.com)   
        Englefield Green, 6 Lodge Close, TW20 0JE  
-       01784-436048, *e-mail*   **brenda.lyon@hydeawayhouse.co.uk**   
+       01784-436048, *e-mail*   **brenda.lyon@hydeawayhouse.co.uk**   
        Singles from �40 (with sherry!)  
 
     -  **Beau Villa**   
