@@ -20,12 +20,12 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 
 |AUTHOR|TITLE|VOLUME|PAGES|
 |-------|-------|-------|-------|
-| **A** ||||
+| **<a name="A" id="A">A</a>** ||||
 |Anderson, John|The Newcastle Dragon [Find](vol03.html#Anderson) |3:2|67-68|  
 |Anderson, John|The Newcastle Pageant Care [Find](vol01.html#Anderson) |1:2|60-61|  
 |Atkin, Tamara|The Personages that Speake : Playing with Parts in Early Printed Drama [Find](vol36.html#Atkin) |36|48-69|  
 |Axton, Richard|Royal Throne, Royal Bed: John Heywood and Spectacle [Find](vol16.html#Axton) |16|66-67|  
-| **B** ||||
+| **<a name="B" id="B">B</a>** ||||
 |Baldwin, Elizabeth|John Seckerston: The Earl of Derby's Bearward [Find](vol20.html#Baldwin) |20|96-105|  
 |Baldwin, Elizabeth|Making a Song and Dance About It : (Self) Presentation in 'The Ballad of John Spenser, The Cheshire Gallant' [Find](vol29.html#Baldwin) |29|17-26|  
 |Baldwin, Elizabeth|A Note on the Chester pageant route [Find](vol27.html#Baldwin) |27|131-132|  
@@ -44,7 +44,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Butterworth, Philip|The York *Crucifixion* : Actor/Audience Relationship [Find](vol14.html#Butterworth) |14|67-76|  
 |Butterworth, Philip|The York Mercers' Pageant Vehicle, 1433-67: Wheels, Steering, and Control [Find](vol01.html#Butterworth) |1:2|72-81|  
 |Butterworth, Philip &amp; Michael Spence|William Parnell, supplier of staging and ingenious devices, and his role in the visit of Elizabeth Woodville to Norwich in 1469 [Find](vol40.html#Butterworth) |40|7-61|  
-| **C** ||||
+| **<a name="C" id="C">C</a>** ||||
 |Carpenter, Sarah|Drama and Politics: Scotland in the 1530s [Find](vol10.html#CarpenterB) |10:2|96-105|  
 |Carpenter, Sarah|Masks and Mirrors: Questions of Identity in Medieval Morality Drama [Find](vol13.html#Carpenter) |13|7-17|  
 |Carpenter, Sarah|Morality-Play Characters [Find](vol05.html#Carpenter) |5:1|29-52|  
