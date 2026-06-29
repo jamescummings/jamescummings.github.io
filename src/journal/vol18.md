@@ -1,16 +1,11 @@
 ---
-layout: page
 title:  "Medieval English Theatre 18"
+layout: page
+banner_image: "/assets/meth_title.jpg"
+permalink: /journal/vol18.html
 ---
 
-  
-<img xmlns="http://www.w3.org/1999/xhtml"
-     src="/assets/meth_title.jpg"
-     style="margins:auto;display:block;width:890px;"
-     width="890px"
-     height="69px"/>
-
-VOLUME EIGHTEEN (1996)
+## VOLUME EIGHTEEN (1996)
 
 Subscription for 1996: �9 plus current P&amp;P.  
 |CONTENTS|  

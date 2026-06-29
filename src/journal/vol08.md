@@ -1,14 +1,9 @@
 ---
-layout: page
 title:  "Medieval English Theatre 8"
+layout: page
+banner_image: "/assets/meth_title.jpg"
+permalink: /journal/vol08.html
 ---
-
-  
-<img xmlns="http://www.w3.org/1999/xhtml"
-     src="/assets/meth_title.jpg"
-     style="margins:auto;display:block;width:880px;"
-     width="880px"
-     height="69px"/>
 
 VOLUME EIGHT (1986)
 

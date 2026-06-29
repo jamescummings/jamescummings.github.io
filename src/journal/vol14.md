@@ -1,16 +1,11 @@
 ---
-layout: page
 title:  "Medieval English Theatre 14"
+layout: page
+banner_image: "/assets/meth_title.jpg"
+permalink: /journal/vol14.html
 ---
 
-  
-<img xmlns="http://www.w3.org/1999/xhtml"
-     src="/assets/meth_title.jpg"
-     style="margins:auto;display:block;width:890px;"
-     width="890px"
-     height="69px"/>
-
-VOLUME FOURTEEN (1992)
+## VOLUME FOURTEEN (1992)
 
 Subscription for 1992: �7 plus current P&amp;P.  
 |CONTENTS|  

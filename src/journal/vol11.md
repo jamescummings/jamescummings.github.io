@@ -1,16 +1,11 @@
 ---
-layout: page
 title:  "Medieval English Theatre 11"
+layout: page
+banner_image: "/assets/meth_title.jpg"
+permalink: /journal/vol11.html
 ---
 
-  
-<img xmlns="http://www.w3.org/1999/xhtml"
-     src="/assets/meth_title.jpg"
-     style="margins:auto;display:block;width:880px;"
-     width="880px"
-     height="69px"/>
-
-VOLUME ELEVEN (1989)
+## VOLUME ELEVEN (1989)
 
 Also published as *Evil on the Medieval
 Stage* 

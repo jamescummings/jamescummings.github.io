@@ -1,16 +1,11 @@
 ---
-layout: page
 title:  "Medieval English Theatre 10"
+layout: page
+banner_image: "/assets/meth_title.jpg"
+permalink: /journal/vol10.html
 ---
 
-  
-<img xmlns="http://www.w3.org/1999/xhtml"
-     src="/assets/meth_title.jpg"
-     style="margins:auto;display:block;width:890px;"
-     width="890px"
-     height="69px"/>
-
-VOLUME TEN (1988)
+## VOLUME TEN (1988)
 
 This volume is currently out of print.  
 |CONTENTS: Volume 10:1|  

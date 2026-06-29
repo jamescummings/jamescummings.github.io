@@ -1,16 +1,11 @@
 ---
-layout: page
 title:  "Medieval English Theatre 28"
+layout: page
+banner_image: "/assets/meth_title.jpg"
+permalink: /journal/vol28.html
 ---
 
-  
-<img xmlns="http://www.w3.org/1999/xhtml"
-     src="/assets/meth_title.jpg"
-     style="margins:auto;display:block;width:890px;"
-     width="890px"
-     height="69px"/>
-
-VOLUME TWENTY-EIGHT (2006)
+## VOLUME TWENTY-EIGHT (2006)
 
 Subscription for 2006: �10 plus current P&amp;P.  
 |CONTENTS|  

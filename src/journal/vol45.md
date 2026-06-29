@@ -1,16 +1,11 @@
 ---
-layout: page
 title:  "Medieval English Theatre 45"
+layout: page
+banner_image: "/assets/meth_title.jpg"
+permalink: /journal/vol45.html
 ---
 
-  
-<img xmlns="http://www.w3.org/1999/xhtml"
-     src="/assets/meth_title.jpg"
-     style="margins:auto;display:block;width:890px;"
-     width="890px"
-     height="69px"/>
-
-VOLUME FORTY-FIVE (2023)  
+## VOLUME FORTY-FIVE (2023)  
 At Press
 
    

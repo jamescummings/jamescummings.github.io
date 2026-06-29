@@ -1,16 +1,11 @@
 ---
-layout: page
 title:  "Medieval English Theatre 33"
+layout: page
+banner_image: "/assets/meth_title.jpg"
+permalink: /journal/vol33.html
 ---
 
-  
-<img xmlns="http://www.w3.org/1999/xhtml"
-     src="/assets/meth_title.jpg"
-     style="margins:auto;display:block;width:890px;"
-     width="890px"
-     height="69px"/>
-
-VOLUME THIRTY-THREE (2011):
+## VOLUME THIRTY-THREE (2011):
 
  
 

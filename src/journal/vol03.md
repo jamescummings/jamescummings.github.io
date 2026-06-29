@@ -1,15 +1,11 @@
 ---
-layout: page
 title:  "Medieval English Theatre 3"
+layout: page
+banner_image: "/assets/meth_title.jpg"
+permalink: /journal/vol03.html
 ---
 
-  
-<img xmlns="http://www.w3.org/1999/xhtml"
-     src="/assets/meth_title.jpg"
-     width="890px"
-     height="69px"/>
-
-VOLUME THREE (1981)
+## VOLUME THREE (1981)
 
 This volume is currently out of print.  
 |CONTENTS: Volume 3:1|  
