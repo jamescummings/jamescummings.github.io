@@ -1,5 +1,5 @@
 ---
-title: "METh Journal: Author Index AC"
+title: "METh Journal: Author Index A-C"
 layout: page
 banner_image: "/assets/authindex.jpg"
 banner_alt: "BL MS Royal 14 E V, detail from fol. 391 (Boccaccio and Petrarch). © The British Library."
@@ -23,14 +23,14 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 | **<a name="A" id="A">A</a>** ||||
 |Anderson, John|The Newcastle Dragon [Find](vol03.html#Anderson) |3:2|67-68|  
 |Anderson, John|The Newcastle Pageant Care [Find](vol01.html#Anderson) |1:2|60-61|  
-|Atkin, Tamara|The Personages that Speake : Playing with Parts in Early Printed Drama [Find](vol36.html#Atkin) |36|48-69|  
+|Atkin, Tamara|The Personages that Speake: Playing with Parts in Early Printed Drama [Find](vol36.html#Atkin) |36|48-69|  
 |Axton, Richard|Royal Throne, Royal Bed: John Heywood and Spectacle [Find](vol16.html#Axton) |16|66-67|  
 | **<a name="B" id="B">B</a>** ||||
 |Baldwin, Elizabeth|John Seckerston: The Earl of Derby's Bearward [Find](vol20.html#Baldwin) |20|96-105|  
-|Baldwin, Elizabeth|Making a Song and Dance About It : (Self) Presentation in 'The Ballad of John Spenser, The Cheshire Gallant' [Find](vol29.html#Baldwin) |29|17-26|  
+|Baldwin, Elizabeth|Making a Song and Dance About It: (Self) Presentation in 'The Ballad of John Spenser, The Cheshire Gallant' [Find](vol29.html#Baldwin) |29|17-26|  
 |Baldwin, Elizabeth|A Note on the Chester pageant route [Find](vol27.html#Baldwin) |27|131-132|  
 |Bawcutt, Priscilla|A Note on the Term *Morality* [Find](vol28.html#Bawcutt) |28|171-174|  
-|Beckett, Jamie| *Pendens super feretrum* : Fergus, Aelred, and the York Funeral of the Virgin [Find](vol39.html#Beckett) |39|103-125|  
+|Beckett, Jamie| *Pendens super feretrum*: Fergus, Aelred, and the York Funeral of the Virgin [Find](vol39.html#Beckett) |39|103-125|  
 |Blanc, Aurélie &amp; Olivia Robinson|The Huy *Nativity* from the Seventeenth to the Twenty-First Century: Translation, Play-Back, and Pray-Back [Find](vol40.html#Blanc) |40|62-93|  
 |Bose, Mishtooni|The Theatre of the Mind in Late-Medieval England [Find](vol38.html#Bose) |38|115-128|  
 |Brown, John|The Devils in the York *Doomsday* [Find](vol11.html#Brown) |11|26-41|  
@@ -41,14 +41,14 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Butterworth, Philip|Pageant-Carriage Maintenance at Chester [Find](vol39.html#Butterworth) |39|5-34|  
 |Butterworth, Philip|Parts and Parcels: Cueing Conventions for the English Medieval Player [Find](vol30.html#Butterworth) |30|99-120|  
 |Butterworth, Philip|Prompting in Full View of the Audience: The Groningen Experiment [Find](vol23.html#Butterworth) |23|122-171|  
-|Butterworth, Philip|The York *Crucifixion* : Actor/Audience Relationship [Find](vol14.html#Butterworth) |14|67-76|  
+|Butterworth, Philip|The York *Crucifixion*: Actor/Audience Relationship [Find](vol14.html#Butterworth) |14|67-76|  
 |Butterworth, Philip|The York Mercers' Pageant Vehicle, 1433-67: Wheels, Steering, and Control [Find](vol01.html#Butterworth) |1:2|72-81|  
 |Butterworth, Philip &amp; Michael Spence|William Parnell, supplier of staging and ingenious devices, and his role in the visit of Elizabeth Woodville to Norwich in 1469 [Find](vol40.html#Butterworth) |40|7-61|  
 | **<a name="C" id="C">C</a>** ||||
 |Carpenter, Sarah|Drama and Politics: Scotland in the 1530s [Find](vol10.html#CarpenterB) |10:2|96-105|  
 |Carpenter, Sarah|Masks and Mirrors: Questions of Identity in Medieval Morality Drama [Find](vol13.html#Carpenter) |13|7-17|  
 |Carpenter, Sarah|Morality-Play Characters [Find](vol05.html#Carpenter) |5:1|29-52|  
-|Carpenter, Sarah|My Lady Tongue : Thomas Tomkis's *Lingua* [Find](vol24.html#Carpenter) |24|3-14|  
+|Carpenter, Sarah|My Lady Tongue: Thomas Tomkis's *Lingua* [Find](vol24.html#Carpenter) |24|3-14|  
 |Carpenter, Sarah|New Evidence: Vives and Audience-Response to Biblical Drama [Find](vol31.html#Carpenter) |31|3-12|  
 |Carpenter, Sarah|The Places of Foolery: Robert Armin and fooling in Edinburgh [Find](vol37.html#Carpenter) |37|11-26|  
 |Carpenter, Sarah|The Sixteenth-Century Court Audience: Performers and Spectators [Find](vol19.html#Carpenter) |19|3-14|  
