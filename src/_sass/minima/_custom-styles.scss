@@ -30,6 +30,7 @@ li > ul > li {padding: 0.1em;}
   display: flex;
   align-items: center;
   padding: 10px 0;
+  padding-left: 10px;
   width: 100%;
 }
 
@@ -41,7 +42,7 @@ li > ul > li {padding: 0.1em;}
 }
 
 .volume-list li a {
-padding-left: 5px;
+margin-left: 5px;
 }
 .volume-list img {
   display: block;
