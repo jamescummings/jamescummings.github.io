@@ -9,16 +9,19 @@ permalink: /journal/volindex.html
 Jump to individual volume for contents list and other information:
 
 | [Vols 1-6](#01) | [Vols 7-12](#07) | [Vols 13-18](#13) | [Vols 19-24](#19) | [Vols 25-36](#25) | [Vols 37-45](#37) | [Vols 46- ](#46) |
+
+
+test
 {: .volindex-table}
 
 
->### **FREE BACK NUMBERS: UNREPEATABLE OFFER**  
+>### **FREE BACK NUMBERS: UNREPEATABLE OFFER**
 > We are in the process of rationalising our stocks of back numbers of *Medieval English Theatre* . Copies of most volumes are available in various quantities between Vol. 8 (1986) and Vol. 36 (2014), after which Boydell and Brewer took over publication. You can check out the contents **below**.  
-> If you would like any copies completely **FREE**, please ask Dr Clare Egan at c.egan2@lancaster.ac.uk before 10th July 2025. We have to ask you to pay for the postage, which will be calculated when you send in your order. After that date any left-over copies will be recycled.  
+> If you would like any copies completely **FREE**, please ask Dr Clare Egan at c.egan2@lancaster.ac.uk before 10th July 2025. We have to ask you to pay for the postage, which will be calculated when you send in your order. After that date any left-over copies will be recycled.
 
 
 > For further information, see [this printable pdf.](/journal/back_nos_offer.pdf)  
-> Download [a list of what is available.](/journal/back_nos_stock.pdf) 
+> Download [a list of what is available.](/journal/back_nos_stock.pdf)
 
 
 **PDFs** of full articles can now be accessed for **Volumes 1-3 and 15-36** : follow the links from the individual volume below.  
@@ -84,5 +87,3 @@ We have taken the difficult decision to make the work of those who have died ava
 {: .volume-list}
 
 
-
- 
