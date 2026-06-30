@@ -23,6 +23,13 @@ margin-left: 2em;
 margin-right: 2em;
 }
 
+a:not([href]){
+color: darkgray;
+}
+
+form {
+float:right;
+}
 
 /* ensure fb icon visible */
 .svg-icon {fill: gray;}
