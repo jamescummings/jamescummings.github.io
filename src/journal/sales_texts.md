@@ -9,7 +9,7 @@ permalink: /journal/sales_texts.html
 ## Publications  
 
 | [List of Publications](#list) | [Sales: How to Order](#order) | [Further Details, Order Form, and Shopping Cart](#details)|
-{:. authorIndex-table} 
+{: .authorIndex-table} 
 
  *Medieval English Theatre* publishes occasional texts and monographs. The following are still for sale.  (For a more detailed description of each book, prices, and Order Form, follow the link on the title.)
 
@@ -44,7 +44,9 @@ or, exceptionally, by post to: Medieval English Theatre, c/o Department of Engli
 
 We will then invoice you for the cost of the text(s) plus current postage and packing. Methods of payment will be detailed on the invoice.
 
-## To order via PayPal using a credit card  **We are currently experiencing difficulty with PayPal, and cannot accept orders which involve this method of payment.** 
+## To order via PayPal using a credit card  
+
+**We are currently experiencing difficulty with PayPal, and cannot accept orders which involve this method of payment.** 
 
  
 <!--
@@ -63,16 +65,21 @@ We will then invoice you for the cost of the text(s) plus current postage and pa
 
 ## <a name="details" id="details"> </a> More about the *METh* Texts &amp; Monographs
 
+
+---- 
+
+
 ![For Pleasure and Profit: Six Dutch Rhetoricians Plays](/assets/covers/pp.jpg)
-### <a name="PP" id="PP>For Pleasure and Profit: Six Dutch Rhetoricians Plays</a>
+
+### <a name="PP" id="PP">For Pleasure and Profit: Six Dutch Rhetoricians Plays</a>
 ### *Volume 1: Three Biblical Plays* 
-#### edited and translated Elsa Strietman and Peter Happé(2006)
+#### edited and translated by Elsa Strietman and Peter Happé (2006)
 
 - ISBN 13-digit: 978-0-86386-013-3  
 - ISBN 10-digit: 086386 013 3  
 - Paperback, perfect binding: 187 pages
 
-Three Dutch plays with facing-page English translation:  
+**Three Dutch plays with facing-page English translation:**  
  - *Van die Becooringe des Duvels hoe hi Christus becoorden* The Temptation by the Devil, how he tempted Christ (1530s?);  
  - *Het Spel van de V vroede ende van de V dwaeze
 Maegden* The Play of the Five Wise and the Five Foolish Virgins (early 16th century);  
@@ -153,7 +160,7 @@ Volume Two, which is published by [ACMRS Press](https://acmrs.org/publications/c
 
 ![The Chester Moses, Balaak and Balaam](/assets/covers/mbb.jpg) 
 ### <a name="BB" id="BB"> *The Chester Moses, Balaak and Balaam* </a>(1983)
-#### edited John McKinnell
+#### edited by John McKinnell
 
 - ISBN 13-digit: 978-0-86386-002-7  
 - ISBN 10-digit: 086386 002 8  
@@ -235,7 +242,7 @@ The Chester mystery play in modern spelling (not in translation) with marginal g
 ![The Chester Antichrist](/assets/covers/antichrist.jpg)
 
 ### <a name="AC" id="AC"> *The Chester Antichrist* </a> (1983)
-#### edited Meg Twycross
+#### edited by Meg Twycross
 
 - ISBN 13-digit: 978-0-86386-004-4  
 - ISBN 10-digit: 086386 004 4  
