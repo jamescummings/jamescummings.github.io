@@ -40,6 +40,9 @@ li > ul > li {padding: 0.1em;}
   display: inline-flex; /* Keeps the anchor bounding box perfectly matched to the image */
 }
 
+.volume-list li a {
+padding-left: 5px;
+}
 .volume-list img {
   display: block;
   vertical-align: middle;
