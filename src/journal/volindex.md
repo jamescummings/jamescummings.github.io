@@ -65,10 +65,10 @@ We have taken the difficult decision to make the work of those who have died ava
 - <a name="33" id="33"> </a> Volume Thirty-Three (2011)  [Contents and PDFs](vol33.html)  [<img src="/assets/covers/vol33vsm.jpg"/>](vol33.html) 
 - <a name="34" id="34"> </a> Volume Thirty-Four (2012)  [Contents and PDFs](vol34.html)  [<img src="/assets/covers/vol34vsm.jpg"/>](vol34.html) 
 - <a name="35" id="35"> </a> Volume Thirty-Five (2013)  [Contents and PDFs](vol35.html)  [<img  src="/assets/covers/vol35vsm.jpg"  width="94px"  height="132px"  border="0"/>](vol35.html) 
-- <a name="36" id="36"> </a> Volume Thirty-Six (2014)  [Contents and PDFs](vol36.html)  [<img src="/assets/covers/vol36vsm.jpg"/>](vol36.html) 
+- <a name="36" id="36"> </a> Volume Thirty-Six (2014)  [Contents and PDFs](vol36.html)  [<img src="/assets/covers/vol36vsm.jpg"/>](vol36.html)
 {: .volume-list}
-  
-  
+
+
 #### Published by BOYDELL &amp; BREWER  
 
 - <a name="37" id="37"> </a> Volume Thirty-Seven (2015)  [Contents](vol37.html)  [<img  src="/assets/covers/vol37vsm.jpg"  width="94px"  height="132px"  border="0"/>](vol37.html) 
