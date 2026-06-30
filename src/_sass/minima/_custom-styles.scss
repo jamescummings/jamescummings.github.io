@@ -1,6 +1,7 @@
 /* custom-styles.scss added by JC 2026-06 */
 
-$grey-color:       #f9ecdf !default;
+/** $grey-color:       #f9ecdf !default;  **/
+$grey-color:       #f0e7db !default;
 
 /* Use blockquote for centred highlight section */
 blockquote {
@@ -15,6 +16,13 @@ blockquote {
     background:#FFFCFC;
     font-style:normal;
 }
+
+th {
+background: #f0e7db;
+}
+
+
+
 
 /* ensure fb icon visible */
 .svg-icon {fill: gray;}
