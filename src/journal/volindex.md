@@ -8,8 +8,8 @@ permalink: /journal/volindex.html
 
 Jump to individual volume for contents list and other information:
 
-| [Vols 1-6](#01) | [Vols 7-12](#07) | [Vols 13-18](#13) | [Vols 19-24](#19) | [Vols 25-36](#25) | [Vols 37-45](#37) | [Vols 46- ](#46) |
-|---|---|---|---|---|---|---|
+| [Vols 1-6](#01) | [Vols 7-12](#07) | [Vols 13-18](#13) | [Vols 19-24](#19) |
+| [Vols 25-36](#25) | [Vols 37-45](#37) | [Vols 46- ](#46) | |
 {: .volindex-table}
 
 > ### **FREE BACK NUMBERS: UNREPEATABLE OFFER**
