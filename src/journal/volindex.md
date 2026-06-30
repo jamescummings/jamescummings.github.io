@@ -63,27 +63,27 @@ We have taken the difficult decision to make the work of those who have died ava
 - <a name="28" id="28"> </a> Volume Twenty-Eight (2006)  [Contents and PDFs](vol28.html)  [<img src="/assets/covers/vol28sm.jpg"/>](vol28.html) 
 - <a name="29" id="29"> </a> Volume Twenty-Nine (2007)  [Contents and PDFs](vol29.html)  [<img src="/assets/covers/vol29vsm.jpg"/>](vol29.html) 
 - <a name="30" id="30"> </a> Volume Thirty (2008)  [Contents and PDFs](vol30.html)  [<img src="/assets/covers/vol30vsm.jpg"/>](vol30.html) 
-- <a name="31" id="31"> </a> Volume Thirty-One (2009)  [Contents and PDFs](vol31.html)  [<img  src="/assets/covers/vol31vsm.jpg"  border="0"/>](vol31.html) 
+- <a name="31" id="31"> </a> Volume Thirty-One (2009)  [Contents and PDFs](vol31.html)  [<img  src="/assets/covers/vol31vsm.jpg"/>](vol31.html) 
 - <a name="32" id="32"> </a> Volume Thirty-Two (2010)  [Contents and PDFs](vol32.html)  [<img src="/assets/covers/vol32vsm.jpg"/>](vol32.html) 
 - <a name="33" id="33"> </a> Volume Thirty-Three (2011)  [Contents and PDFs](vol33.html)  [<img src="/assets/covers/vol33vsm.jpg"/>](vol33.html) 
 - <a name="34" id="34"> </a> Volume Thirty-Four (2012)  [Contents and PDFs](vol34.html)  [<img src="/assets/covers/vol34vsm.jpg"/>](vol34.html) 
-- <a name="35" id="35"> </a> Volume Thirty-Five (2013)  [Contents and PDFs](vol35.html)  [<img  src="/assets/covers/vol35vsm.jpg"  width="94px"  height="132px"  border="0"/>](vol35.html) 
+- <a name="35" id="35"> </a> Volume Thirty-Five (2013)  [Contents and PDFs](vol35.html)  [<img  src="/assets/covers/vol35vsm.jpg"/>](vol35.html) 
 - <a name="36" id="36"> </a> Volume Thirty-Six (2014)  [Contents and PDFs](vol36.html)  [<img src="/assets/covers/vol36vsm.jpg"/>](vol36.html)
 {: .volume-list}
 
 
 #### Published by BOYDELL &amp; BREWER  
 
-- <a name="37" id="37"> </a> Volume Thirty-Seven (2015)  [Contents](vol37.html)  [<img  src="/assets/covers/vol37vsm.jpg"  width="94px"  height="132px"  border="0"/>](vol37.html) 
+- <a name="37" id="37"> </a> Volume Thirty-Seven (2015)  [Contents](vol37.html)  [<img  src="/assets/covers/vol37vsm.jpg" />](vol37.html) 
 - <a name="38" id="38"> </a> Volume Thirty-Eight (2016)  [Contents](vol38.html)  [<img src="/assets/covers/vol38vsm.jpg"/>](vol38.html) 
-- <a name="39" id="39"> </a> Volume Thirty-Nine (2017)  [Contents](vol39.html)  [<img  src="/assets/covers/vol39vsm.jpg"  width="94px"  height="131px"  border="0"/>](vol39.html) 
-- <a name="40" id="40"> </a> Volume Forty (2018)  [Contents](vol40.html)  [<img  src="/assets/covers/vol40vsm.jpg"  width="92px"  height="132px"  border="0"/>](vol40.html) 
-- <a name="41" id="41"> </a> Volume Forty-One (2019)  [Contents](vol41.html)  [<img  src="/assets/covers/vol41vsm.jpg"  width="94px"  height="131px"  border="0"/>](vol41.html) 
-- <a name="42" id="42"> </a> Volume Forty-Two (2020)  [Contents](vol42.html)  [<img  src="/assets/covers/vol42vsm.jpg"  width="94"  height="131"  border="0"/>](vol42.html) 
-- <a name="43" id="43"> </a> Volume Forty-Three (2021)  [Contents](vol43.html)  [<img  src="/assets/covers/vol43vsm.jpg"  width="95px"  height="132px"  border="0"/>](vol43.html) 
-- <a name="44" id="44"> </a>Volume 44 (2022)  [Contents](vol44.html)  [<img  src="/assets/covers/vol44vsm.jpg"  width="95px"  height="132px"  border="0"/>](vol44.html) 
-- <a name="45" id="45"> </a> Volume Forty-Five (2023)  [Contents](vol45.html)  [<img  src="/assets/covers/vol45vsm.jpg"  width="95px"  height="132px"  border="0"/>](vol45.html) 
-- <a name="46" id="46"> </a> Volume 46 (2024) [To Come.](volindex.html)  [<img  src="/assets/covers/vol46vsm.jpg"  width="95px"  height="132px"  border="0"/>](vol46.html)
+- <a name="39" id="39"> </a> Volume Thirty-Nine (2017)  [Contents](vol39.html)  [<img  src="/assets/covers/vol39vsm.jpg" />](vol39.html) 
+- <a name="40" id="40"> </a> Volume Forty (2018)  [Contents](vol40.html)  [<img  src="/assets/covers/vol40vsm.jpg" />](vol40.html) 
+- <a name="41" id="41"> </a> Volume Forty-One (2019)  [Contents](vol41.html)  [<img  src="/assets/covers/vol41vsm.jpg"/>](vol41.html) 
+- <a name="42" id="42"> </a> Volume Forty-Two (2020)  [Contents](vol42.html)  [<img  src="/assets/covers/vol42vsm.jpg" />](vol42.html) 
+- <a name="43" id="43"> </a> Volume Forty-Three (2021)  [Contents](vol43.html)  [<img  src="/assets/covers/vol43vsm.jpg"  />](vol43.html) 
+- <a name="44" id="44"> </a>Volume 44 (2022)  [Contents](vol44.html)  [<img  src="/assets/covers/vol44vsm.jpg" />](vol44.html) 
+- <a name="45" id="45"> </a> Volume Forty-Five (2023)  [Contents](vol45.html)  [<img  src="/assets/covers/vol45vsm.jpg" />](vol45.html) 
+- <a name="46" id="46"> </a> Volume 46 (2024) [To Come.](volindex.html)  [<img  src="/assets/covers/vol46vsm.jpg" />](vol46.html)
 {: .volume-list}
 
 
