@@ -9,25 +9,20 @@ permalink: /journal/volindex.html
 Jump to individual volume for contents list and other information:
 
 | [Vols 1-6](#01) | [Vols 7-12](#07) | [Vols 13-18](#13) | [Vols 19-24](#19) |
-| [Vols 25-36](#25) | [Vols 37-45](#37) | [Vols 46- ](#46) | |
+| [Vols 25-36](#25) | [Vols 37-45](#37) | [Vols 46-](#46) | |
 {: .volindex-table}
-
 
 > ### **FREE BACK NUMBERS: UNREPEATABLE OFFER**
 > We are in the process of rationalising our stocks of back numbers of *Medieval English Theatre* . Copies of most volumes are available in various quantities between Vol. 8 (1986) and Vol. 36 (2014), after which Boydell and Brewer took over publication. You can check out the contents **below**.  
-> If you would like any copies completely **FREE**, please ask Dr Clare Egan at c.egan2@lancaster.ac.uk before 10th July 2025. We have to ask you to pay for the postage, which will be calculated when you send in your order. After that date any left-over copies will be recycled.
-
+> If you would like any copies completely **FREE**, please ask Dr Clare Egan at c.egan2@lancaster.ac.uk before 10th July 2025. We have to ask you to pay for the postage, which will be calculated when you send in your order. After that date any left-over copies will be recycled.  
 
 > For further information, see [this printable pdf.](/journal/back_nos_offer.pdf)  
 > Download [a list of what is available.](/journal/back_nos_stock.pdf)
 
-
-**PDFs** of full articles can now be accessed for **Volumes 1-3 and 15-36** : follow the links from the individual volume below.  
-
+**PDFs** of full articles can now be accessed for **Volumes 1-3 and 15-36**: follow the links from the individual volume below.  
 
 We have sought **permission** from the authors. Articles by those who have not yet replied are currently blocked; if anyone knows their whereabouts, please get in touch with one of the current Editors.  
 We have taken the difficult decision to make the work of those who have died available unless an objection is lodged; permission has been granted by those heirs and assigns whom we have been able to contact. Please let the Editors know if you are a literary executor for any of the others.  
-
 
 #### Volume Index  
 
@@ -70,7 +65,7 @@ We have taken the difficult decision to make the work of those who have died ava
 {: .volume-list}
 
 
-#### Published by BOYDELL &amp; BREWER  
+#### Published by BOYDELL &amp; BREWER
 
 - <a name="37" id="37"> </a> Volume Thirty-Seven (2015)  [Contents](vol37.html)  [<img  src="/assets/covers/vol37vsm.jpg" />](vol37.html) 
 - <a name="38" id="38"> </a> Volume Thirty-Eight (2016)  [Contents](vol38.html)  [<img src="/assets/covers/vol38vsm.jpg"/>](vol38.html) 
