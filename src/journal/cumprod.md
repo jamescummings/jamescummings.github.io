@@ -4,7 +4,7 @@ title:  "Medieval English Theatre: Index Productions"
 ---
 
   
-<img xmlns="http://www.w3.org/1999/xhtml"
+<img 
      src="/assets/authindex.jpg"
      style="margins:auto;display:block;width:890px;"
      width="890px"
@@ -70,7 +70,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Elliott, John|The Rio Gordo Passion Play     [Find](vol08.html#Elliott) |8:1|63–65|  
 |Evans, Ruth| *The Play of Daniel* in Ripon Cathedral     [Find](vol06.html#Evans) |6:2|161–162|  
 | **H** |  
-|<a xmlns="http://www.w3.org/1999/xhtml" name="HL" id="HL">Happé, Peter</a>| *Damon and Pithias* by Richard Edwards at Shakespeare’s Globe     [Find](vol18.html#Happe) |18|161–163|  
+|<a  name="HL" id="HL">Happé, Peter</a>| *Damon and Pithias* by Richard Edwards at Shakespeare’s Globe     [Find](vol18.html#Happe) |18|161–163|  
 |Happé, Peter|Herod’s Killing of the Children in New College Chapel Oxford, 8 February 2017     [Find](vol39.html#Happe) |39|158–159|  
 |Happé, Peter|Marlowe’s *Dr Faustus* at Cambridge     [Find](vol06.html#Happe) |6:1|42–44|  
 |Happé, Peter|‘What is ane King?’: Lyndsay’s *Satire of the

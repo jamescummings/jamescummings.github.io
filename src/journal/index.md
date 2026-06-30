@@ -14,7 +14,7 @@ banner_alt: "The beginning of the Creation pageant, detail from first surviving 
 >We are waiting for the **author’s permission** for a few articles. In that case you will be led to a pdf which says so, and asks for further information about their whereabouts or those of their representatives. Please help if you can.  
 > **Some images have been removed** as we did not acquire permissions for online publication at the time.
 
-From Volume 37 (2015) onwards the journal has been published and sold by [Boydell &amp; Brewer](https://boydellandbrewer.com/search-results/?series=medieval-english-theatre).  An [e-book version](http://www.ebooks.com/2239094/medieval-english-theatre-37/carpenter-sarah-king-pamela-m-twycross-meg/) is available, and it is also accessible via JSTOR <img xmlns="http://www.w3.org/1999/xhtml"  src="/assets/JSTOR_logo_sm.jpg" align="middle"/> through institutions which have subscribed to the e-book.
+From Volume 37 (2015) onwards the journal has been published and sold by [Boydell &amp; Brewer](https://boydellandbrewer.com/search-results/?series=medieval-english-theatre).  An [e-book version](http://www.ebooks.com/2239094/medieval-english-theatre-37/carpenter-sarah-king-pamela-m-twycross-meg/) is available, and it is also accessible via JSTOR <img   src="/assets/JSTOR_logo_sm.jpg" align="middle"/> through institutions which have subscribed to the e-book.
 
 Members of the Society are eligible for a [reduced-price subscription](/society) to the print version of the journal from Vol 37 onwards. This is ordered via the Secretary.
 

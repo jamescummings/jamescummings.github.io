@@ -4,7 +4,7 @@ title:  "Medieval English Theatre: Submissions"
 ---
 
   
-<img xmlns="http://www.w3.org/1999/xhtml"
+<img 
      src="/assets/authors.jpg"
      style="margins:auto;display:block;width:890px;"
      width="890px"

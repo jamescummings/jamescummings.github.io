@@ -58,7 +58,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Hunt, Alice|The Bright Star of The North: James I and his English Coronation  [Find](vol38.html#Hunt) |38|22–37|  
 |**<a name="I" id="I" class="alphaCenter">I</a>**||||
 |Ingram, Reg|The Coventry Pageant Waggon  [Find](vol02.html#Ingram) |2:1|3–14|  
-|**<a xmlns="http://www.w3.org/1999/xhtml" name="J" id="J">J</a>** ||||
+|**<a  name="J" id="J">J</a>** ||||
 |Jack, R.D.S.|The Dramatic Voice of William Dunbar  [Find](vol37.html#Jack) |37|73–89|  
 |Johnston, Alexandra F.|And how the state will beare with it, I knowe not  [Find](vol30.html#Johnston) |30|3–25|  
 |Johnston, Alexandra F.|The Emerging Pattern of the Easter Play in England  [Find](vol20.html#Johnston) |20|3–23|  
